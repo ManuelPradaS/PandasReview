@@ -1,0 +1,1001 @@
+"id","adc_blue","adc_red","jungle_blue","jungle_red","mid_blue","mid_red","supp_blue","supp_red","top_blue","top_red","winner"
+"497426","Jinx","Ezreal","Rek'Sai","Udyr","Fizz","LeBlanc","Nami","Leona","Trundle","Poppy",?
+"418516","Lucian","Vayne","Shyvana","Master Yi","Annie","Ahri","Morgana","Leona","Ekko","Irelia",?
+"62759","Kog'Maw","Miss Fortune","Fiora","Master Yi","Ziggs","Katarina","Leona","Bard","Darius","Illaoi",?
+"262772","Varus","Jinx","Kha'Zix","Lee Sin","Katarina","Yasuo","Braum","Thresh","Jax","Irelia",?
+"81458","Draven","Lucian","Graves","Kha'Zix","Lissandra","Yasuo","Alistar","Thresh","Volibear","Darius",?
+"65285","Jinx","Ezreal","Wukong","Vi","Annie","Cho'Gath","Bard","Soraka","Riven","Kayle",?
+"483063","Caitlyn","Jhin","Amumu","Olaf","Yasuo","Cassiopeia","Shen","Soraka","Tryndamere","Illaoi",?
+"6941","Lucian","Jinx","Jax","Tryndamere","Ahri","Anivia","Karma","Blitzcrank","Teemo","Ekko",?
+"272869","Ezreal","Caitlyn","Graves","Jarvan IV","Annie","Viktor","Soraka","Bard","Singed","Irelia",?
+"463595","Caitlyn","Vayne","Kha'Zix","Hecarim","Azir","Twisted Fate","Lulu","Nami","Illaoi","Irelia",?
+"395890","Jhin","Graves","Jax","Lee Sin","Zed","Katarina","Bard","Morgana","Tryndamere","Aatrox",?
+"372428","Varus","Miss Fortune","Wukong","Trundle","Lissandra","Kayle","Nami","Braum","Renekton","Dr. Mundo",?
+"33461","Jinx","Caitlyn","Trundle","Fiddlesticks","Lux","Morgana","Bard","Taric","Irelia","Vladimir",?
+"477444","Lucian","Ezreal","Zac","Kayle","Azir","Viktor","Taric","Thresh","Jax","Nasus",?
+"59583","Twitch","Sivir","Udyr","Rammus","Fizz","Ekko","Janna","Braum","Sion","Vladimir",?
+"238298","Urgot","Ezreal","Shaco","Warwick","Taliyah","Azir","Nami","Leona","Jax","Tryndamere",?
+"231976","Draven","Miss Fortune","Zac","Pantheon","Zed","Ezreal","Nautilus","Thresh","Nasus","Trundle",?
+"421311","Quinn","Miss Fortune","Rengar","Lee Sin","Katarina","Annie","Leona","Karma","Yasuo","Dr. Mundo",?
+"71390","Jhin","Ezreal","Volibear","Xin Zhao","Fizz","Viktor","Trundle","Thresh","Swain","Shen",?
+"88532","Vayne","Ezreal","Hecarim","Nidalee","Anivia","Cho'Gath","Thresh","Leona","Garen","Jax",?
+"107438","Ezreal","Sivir","Sejuani","Rumble","Aurelion Sol","Azir","Braum","Lulu","Hecarim","Vladimir",?
+"298541","Vayne","Sivir","Elise","Nocturne","Teemo","Yasuo","Thresh","Nautilus","Renekton","Gnar",?
+"234340","Vayne","Ezreal","Lee Sin","Poppy","Malphite","Morgana","Vel'Koz","Nami","Jax","Draven",?
+"187906","Lucian","Jinx","Lee Sin","Gragas","LeBlanc","Ahri","Braum","Brand","Fizz","Riven",?
+"77053","Vayne","Tristana","Gragas","Amumu","Katarina","Swain","Lux","Leona","Fiora","Jax",?
+"9771","Ezreal","Vayne","Kha'Zix","Hecarim","Fizz","Kassadin","Janna","Braum","Irelia","Illaoi",?
+"189160","Twitch","Vayne","Lee Sin","Nidalee","Katarina","Yasuo","Nautilus","Leona","Maokai","Dr. Mundo",?
+"195498","Lucian","Jinx","Xin Zhao","Amumu","Lux","Brand","Morgana","Zilean","Garen","Teemo",?
+"438491","Ashe","Twitch","Master Yi","Elise","Talon","Viktor","Malzahar","Braum","Darius","Fiora",?
+"335921","Jinx","Caitlyn","Volibear","Shyvana","Talon","Swain","Sona","Nami","Fiora","Garen",?
+"122310","Kog'Maw","Tristana","Graves","Skarner","Annie","Zed","Lux","Nami","Darius","Singed",?
+"461908","Tristana","Vayne","Jax","Pantheon","LeBlanc","Diana","Sona","Blitzcrank","Irelia","Kennen",?
+"257877","Vayne","Quinn","Shaco","Kayle","Brand","Veigar","Lux","Tahm Kench","Sion","Jax",?
+"442036","Sivir","Kog'Maw","Gragas","Amumu","Yasuo","Zed","Nautilus","Thresh","Garen","Riven",?
+"10056","Lucian","Ezreal","Volibear","Skarner","Annie","Malzahar","Thresh","Leona","Brand","Aatrox",?
+"450035","Jinx","Ezreal","Master Yi","Graves","Yasuo","Ekko","Annie","Leona","Jax","Gnar",?
+"139698","Miss Fortune","Ezreal","Kha'Zix","Nidalee","Annie","Yasuo","Morgana","Taric","Gnar","Malphite",?
+"269675","Ezreal","Lucian","Gragas","Elise","Zed","Yasuo","Thresh","Janna","Darius","Karma",?
+"339654","Twitch","Lucian","Nocturne","Lee Sin","Lux","Orianna","Braum","Sona","Fiora","Irelia",?
+"269669","Vayne","Ashe","Vi","Nocturne","Diana","Zed","Malphite","Blitzcrank","Heimerdinger","Nasus",?
+"516120","Sivir","Corki","Jax","Lee Sin","Yasuo","Viktor","Morgana","Poppy","Gnar","Malphite",?
+"54987","Ezreal","Vayne","Rengar","Shaco","Kennen","Katarina","Brand","Blitzcrank","Fizz","Nasus",?
+"104174","Miss Fortune","Tristana","Rengar","Vi","Yasuo","Ezreal","Nami","Morgana","Riven","Maokai",?
+"36136","Caitlyn","Twitch","Lee Sin","Sejuani","Fizz","LeBlanc","Morgana","Blitzcrank","Riven","Ryze",?
+"450242","Jhin","Vayne","Rumble","Rek'Sai","Twisted Fate","Syndra","Lulu","Bard","Jax","Ekko",?
+"30161","Draven","Vayne","Kha'Zix","Jax","Veigar","Akali","Alistar","Blitzcrank","Trundle","Gnar",?
+"103751","Graves","Lucian","Xin Zhao","Volibear","Viktor","Zed","Nautilus","Blitzcrank","Master Yi","Yorick",?
+"105810","Tristana","Caitlyn","Kindred","Gragas","Yasuo","Veigar","Alistar","Thresh","Maokai","Fizz",?
+"428921","Ezreal","Tristana","Trundle","Xin Zhao","LeBlanc","Lissandra","Karma","Annie","Quinn","Gnar",?
+"234021","Lucian","Kalista","Rengar","Volibear","LeBlanc","Fizz","Leona","Alistar","Ekko","Renekton",?
+"247250","Twitch","Caitlyn","Lee Sin","Amumu","Ahri","Diana","Morgana","Nami","Fizz","Maokai",?
+"177833","Miss Fortune","Vayne","Rammus","Warwick","Katarina","Anivia","Janna","Thresh","Fizz","Vladimir",?
+"14801","Caitlyn","Jinx","Xin Zhao","Zed","LeBlanc","Volibear","Leona","Braum","Tryndamere","Yasuo",?
+"148324","Ezreal","Ashe","Diana","Rengar","Ahri","Twisted Fate","Alistar","Thresh","Vayne","Maokai",?
+"345904","Twitch","Jinx","Jax","Warwick","Yasuo","LeBlanc","Blitzcrank","Alistar","Kennen","Sion",?
+"60370","Ezreal","Lucian","Kindred","Elise","Aurelion Sol","Annie","Thresh","Bard","Fizz","Riven",?
+"79677","Vayne","Ezreal","Ekko","Amumu","LeBlanc","Azir","Lulu","Morgana","Trundle","Volibear",?
+"230554","Draven","Caitlyn","Sejuani","Teemo","Diana","Zed","Braum","Thresh","Vladimir","Gangplank",?
+"413880","Ezreal","Caitlyn","Rengar","Nocturne","Azir","Cassiopeia","Braum","Thresh","Malphite","Volibear",?
+"424445","Vayne","Ashe","Nocturne","Lee Sin","Akali","Diana","Sona","Malphite","Darius","Gnar",?
+"314147","Vayne","Caitlyn","Zac","Fizz","Anivia","Cassiopeia","Vel'Koz","Nami","Malphite","Olaf",?
+"174483","Sivir","Lucian","Fizz","Elise","Yasuo","Ziggs","Braum","Sion","Olaf","Jax",?
+"318663","Kog'Maw","Lucian","Kha'Zix","Ekko","Ahri","Annie","Braum","Thresh","Renekton","Gnar",?
+"239978","Lucian","Varus","Lee Sin","Zac","Anivia","Cassiopeia","Braum","Morgana","Yasuo","Akali",?
+"321756","Vayne","Lucian","Zac","Volibear","Yasuo","Vel'Koz","Soraka","Zyra","Nautilus","Ekko",?
+"379054","Jinx","Miss Fortune","Kha'Zix","Xin Zhao","Yasuo","Lissandra","Morgana","Zilean","Darius","Jax",?
+"92807","Twitch","Caitlyn","Vi","Xin Zhao","Fizz","Annie","Janna","Braum","Nasus","Cassiopeia",?
+"179873","Ezreal","Lucian","Rengar","Rammus","Yasuo","Akali","Poppy","Zilean","Wukong","Jax",?
+"349290","Vayne","Lucian","Rammus","Volibear","Kayle","Morgana","Bard","Thresh","Jax","Tryndamere",?
+"375137","Kindred","Caitlyn","Lee Sin","Trundle","Lucian","Katarina","Morgana","Alistar","Garen","Ekko",?
+"130871","Lucian","Caitlyn","Gragas","Master Yi","Veigar","Morgana","Brand","Tahm Kench","Shen","Garen",?
+"106163","Ezreal","Vayne","Sejuani","Kha'Zix","Ziggs","Zed","Nami","Braum","Garen","Renekton",?
+"472985","Vayne","Lucian","Lee Sin","Sejuani","LeBlanc","Diana","Janna","Soraka","Fizz","Nasus",?
+"267462","Vayne","Caitlyn","Fizz","Vi","Akali","Azir","Thresh","Janna","Yasuo","Irelia",?
+"138976","Jinx","Ashe","Volibear","Shaco","Ezreal","Azir","Blitzcrank","Nami","Urgot","Cho'Gath",?
+"92953","Sivir","Draven","Gragas","Diana","Lulu","LeBlanc","Nami","Taliyah","Fizz","Vladimir",?
+"483945","Twitch","Lucian","Kha'Zix","Volibear","Ezreal","Yasuo","Zilean","Leona","Teemo","Tryndamere",?
+"424285","Sivir","Jinx","Shaco","Kha'Zix","Ahri","Taliyah","Janna","Thresh","Lulu","LeBlanc",?
+"174961","Caitlyn","Lucian","Wukong","Udyr","Ahri","Riven","Thresh","Braum","Pantheon","Yasuo",?
+"296743","Tristana","Caitlyn","Amumu","Nidalee","Fizz","Gangplank","Anivia","Janna","Singed","Darius",?
+"404687","Ezreal","Jhin","Fiddlesticks","Lee Sin","Ziggs","Brand","Nautilus","Sion","Wukong","Heimerdinger",?
+"416353","Lucian","Jhin","Shaco","Lee Sin","Yasuo","Veigar","Thresh","Blitzcrank","Malzahar","Shyvana",?
+"337622","Lucian","Jinx","Rek'Sai","Vi","Xerath","Ahri","Karma","Morgana","Teemo","Tryndamere",?
+"132435","Caitlyn","Lucian","Lee Sin","Graves","Syndra","LeBlanc","Vel'Koz","Thresh","Malphite","Trundle",?
+"24791","Miss Fortune","Jinx","Master Yi","Vi","Yasuo","Ahri","Cassiopeia","Leona","Cho'Gath","Riven",?
+"33874","Miss Fortune","Lucian","Kindred","Volibear","Annie","Ahri","Blitzcrank","Morgana","Illaoi","Poppy",?
+"340048","Caitlyn","Lucian","Amumu","Lee Sin","Diana","Yasuo","Leona","Lulu","Darius","Poppy",?
+"259094","Sivir","Jhin","Sejuani","Poppy","Lux","Quinn","Bard","Braum","Jax","Shaco",?
+"430219","Caitlyn","Lucian","Lee Sin","Kha'Zix","Azir","Veigar","Blitzcrank","Taric","Maokai","Ekko",?
+"416077","Sivir","Tristana","Nidalee","Pantheon","Azir","Veigar","Nami","Anivia","Akali","Swain",?
+"511996","Caitlyn","Jinx","Vi","Gragas","Diana","Orianna","Nami","Blitzcrank","Nasus","Yasuo",?
+"92315","Lucian","Miss Fortune","Volibear","Lee Sin","Zed","Lissandra","Brand","Braum","Cho'Gath","Olaf",?
+"440015","Jinx","Lucian","Gragas","Master Yi","Orianna","LeBlanc","Sona","Taric","Yasuo","Zed",?
+"57224","Ezreal","Caitlyn","Kindred","Poppy","Katarina","Annie","Shen","Bard","Swain","Mordekaiser",?
+"267271","Lucian","Ashe","Poppy","Vi","Lux","Twisted Fate","Braum","Annie","Quinn","Tryndamere",?
+"286002","Vayne","Ezreal","Elise","Rengar","Swain","Alistar","Blitzcrank","Karma","Riven","Nasus",?
+"39908","Lucian","Miss Fortune","Volibear","Shaco","Ahri","Ziggs","Zyra","Sona","Garen","Wukong",?
+"495860","Caitlyn","Sivir","Xin Zhao","Elise","Viktor","Karma","Leona","Bard","Gnar","Trundle",?
+"292110","Jinx","Vayne","Gragas","Sejuani","Azir","Xerath","Blitzcrank","Thresh","Ekko","Shen",?
+"200325","Lucian","Caitlyn","Volibear","Udyr","Azir","Xerath","Janna","Thresh","Illaoi","Tryndamere",?
+"116264","Tristana","Jinx","Kha'Zix","Sejuani","Azir","Yasuo","Thresh","Zyra","Shen","Malphite",?
+"127372","Lucian","Vayne","Amumu","Udyr","Katarina","Nasus","Thresh","Blitzcrank","Gnar","Irelia",?
+"154381","Jinx","Caitlyn","Malphite","Udyr","Lucian","Azir","Braum","Thresh","Olaf","Maokai",?
+"246495","Jinx","Miss Fortune","Fiddlesticks","Amumu","Akali","Yasuo","Thresh","Xerath","Aatrox","Cho'Gath",?
+"493484","Lucian","Caitlyn","Lee Sin","Kha'Zix","Karma","Azir","Brand","Sona","Teemo","Wukong",?
+"221895","Sivir","Vayne","Nidalee","Nunu","Katarina","Vladimir","Bard","Braum","Jax","Rammus",?
+"261546","Caitlyn","Vayne","Malzahar","Graves","Yasuo","Taliyah","Blitzcrank","Janna","Evelynn","Trundle",?
+"392787","Caitlyn","Graves","Xin Zhao","Master Yi","Zed","LeBlanc","Morgana","Karma","Tryndamere","Nasus",?
+"417265","Miss Fortune","Ezreal","Kindred","Volibear","LeBlanc","Malzahar","Brand","Blitzcrank","Trundle","Yasuo",?
+"45350","Miss Fortune","Draven","Rengar","Xin Zhao","Orianna","Twisted Fate","Leona","Alistar","Nasus","Akali",?
+"267324","Twitch","Vayne","Volibear","Graves","Annie","Veigar","Braum","Leona","Garen","Gnar",?
+"99444","Sivir","Lucian","Master Yi","Evelynn","Fizz","Twisted Fate","Thresh","Blitzcrank","Ekko","Trundle",?
+"280071","Lucian","Jinx","Xin Zhao","Sejuani","Katarina","LeBlanc","Leona","Blitzcrank","Ekko","Gnar",?
+"143787","Tristana","Quinn","Xin Zhao","Lee Sin","Mordekaiser","Taliyah","Janna","Malphite","Garen","Zed",?
+"31926","Caitlyn","Sivir","Jax","Gragas","Katarina","Yasuo","Morgana","Bard","Darius","Malphite",?
+"235699","Vayne","Caitlyn","Kha'Zix","Kindred","Azir","Viktor","Alistar","Thresh","Swain","Yasuo",?
+"518555","Miss Fortune","Ezreal","Master Yi","Rammus","Viktor","Azir","Leona","Zilean","Yasuo","Xin Zhao",?
+"229508","Caitlyn","Draven","Rengar","Fiddlesticks","LeBlanc","Annie","Leona","Blitzcrank","Swain","Darius",?
+"54315","Lucian","Caitlyn","Volibear","Vi","Veigar","Kindred","Blitzcrank","Morgana","Riven","Soraka",?
+"189025","Twitch","Jinx","Zac","Lee Sin","Irelia","Lux","Nami","Janna","Yasuo","Darius",?
+"149067","Ashe","Draven","Vi","Xin Zhao","Annie","Zed","Morgana","Leona","Cho'Gath","Illaoi",?
+"38896","Lucian","Vayne","Sejuani","Shyvana","Lux","LeBlanc","Leona","Janna","Sion","Kha'Zix",?
+"73317","Miss Fortune","Ezreal","Ekko","Zac","Zed","Ahri","Lux","Blitzcrank","Riven","Yasuo",?
+"354518","Jinx","Sivir","Jax","Amumu","Fizz","Annie","Alistar","Thresh","Cho'Gath","Dr. Mundo",?
+"513585","Jinx","Caitlyn","Warwick","Jarvan IV","Ezreal","Katarina","Tahm Kench","Sona","Fizz","Jax",?
+"234695","Ashe","Jhin","Udyr","Rek'Sai","Malzahar","Fizz","Alistar","Thresh","Riven","Irelia",?
+"410526","Lucian","Miss Fortune","Amumu","Zac","Kog'Maw","Zed","Soraka","Leona","Rumble","Swain",?
+"428175","Lucian","Vayne","Vi","Zac","Ahri","LeBlanc","Thresh","Braum","Tryndamere","Irelia",?
+"417435","Lucian","Vayne","Udyr","Volibear","Malzahar","Morgana","Karma","Lux","Malphite","Illaoi",?
+"30397","Twitch","Draven","Irelia","Volibear","Twisted Fate","Yasuo","Thresh","Brand","Jax","Darius",?
+"342317","Miss Fortune","Sivir","Graves","Master Yi","Ekko","Viktor","Sona","Sejuani","Irelia","Tryndamere",?
+"166715","Lucian","Ezreal","Lee Sin","Graves","Azir","Vayne","Leona","Morgana","Yasuo","Garen",?
+"413416","Teemo","Miss Fortune","Maokai","Sejuani","Ryze","Yasuo","Morgana","Alistar","Shyvana","Talon",?
+"274858","Jhin","Ezreal","Amumu","Fizz","Annie","Brand","Bard","Thresh","Malphite","Poppy",?
+"34842","Caitlyn","Tristana","Jax","Master Yi","Talon","Orianna","Nautilus","Amumu","Wukong","Malphite",?
+"373269","Lucian","Caitlyn","Twitch","Kindred","Ahri","Katarina","Leona","Zilean","Yasuo","Fiora",?
+"456049","Ashe","Vayne","Xin Zhao","Kindred","Orianna","Veigar","Brand","Soraka","Garen","Nasus",?
+"67750","Ashe","Vayne","Maokai","Shaco","Yasuo","Lux","Morgana","Bard","Nasus","Mordekaiser",?
+"315397","Tristana","Ezreal","Fizz","Volibear","Ahri","Azir","Lee Sin","Nami","Nasus","Swain",?
+"197768","Draven","Lucian","Nocturne","Amumu","Ryze","LeBlanc","Thresh","Alistar","Akali","Illaoi",?
+"294829","Caitlyn","Sivir","Vi","Shyvana","Katarina","Ekko","Zyra","Janna","Riven","Irelia",?
+"7537","Lucian","Caitlyn","Rek'Sai","Master Yi","Ekko","Cho'Gath","Nautilus","Janna","Pantheon","Kayle",?
+"362268","Sivir","Vayne","Rengar","Kha'Zix","Lux","Veigar","Morgana","Thresh","Malphite","Poppy",?
+"68984","Vayne","Draven","Lee Sin","Evelynn","Syndra","Yasuo","Blitzcrank","Morgana","Renekton","Jax",?
+"466377","Ezreal","Jinx","Sejuani","Kindred","Yasuo","Morgana","Blitzcrank","Zyra","Quinn","Pantheon",?
+"459109","Jinx","Twitch","Malzahar","Tryndamere","Viktor","Fizz","Amumu","Morgana","Teemo","Nautilus",?
+"142227","Draven","Jinx","Shen","Volibear","Ezreal","Brand","Alistar","Blitzcrank","Lucian","Kennen",?
+"335376","Ezreal","Caitlyn","Evelynn","Elise","LeBlanc","Zed","Thresh","Nami","Karma","Nasus",?
+"97975","Jhin","Lucian","Master Yi","Lee Sin","Fizz","Annie","Taliyah","Veigar","Sion","Wukong",?
+"366158","Jhin","Kalista","Kha'Zix","Rammus","LeBlanc","Xerath","Karma","Bard","Lulu","Gnar",?
+"487237","Sivir","Lucian","Kha'Zix","Hecarim","Fizz","LeBlanc","Morgana","Braum","Maokai","Garen",?
+"101468","Lucian","Ezreal","Hecarim","Evelynn","LeBlanc","Orianna","Leona","Blitzcrank","Ashe","Gnar",?
+"311900","Ashe","Vayne","Jax","Master Yi","Katarina","Ekko","Morgana","Janna","Rengar","Ryze",?
+"446293","Kalista","Jhin","Amumu","Lee Sin","Ahri","Veigar","Blitzcrank","Annie","Gnar","Rengar",?
+"472186","Lucian","Jinx","Amumu","Hecarim","Zed","Talon","Thresh","Morgana","Ekko","Garen",?
+"370832","Jinx","Lucian","Kha'Zix","Ekko","Brand","Lissandra","Morgana","Alistar","Renekton","Yasuo",?
+"412068","Lucian","Tristana","Evelynn","Lee Sin","Annie","Azir","Alistar","Thresh","Vladimir","Shen",?
+"36057","Sivir","Lucian","Gragas","Diana","Katarina","Yasuo","Zilean","Zyra","Renekton","Kayle",?
+"205128","Jinx","Vayne","Vi","Lee Sin","Annie","Yasuo","Morgana","Thresh","Ekko","Lissandra",?
+"482369","Jinx","Lucian","Xin Zhao","Gragas","Ziggs","Ekko","Veigar","Morgana","Quinn","Ryze",?
+"110702","Quinn","Caitlyn","Jax","Fizz","Ekko","Ahri","Braum","Alistar","Vladimir","Maokai",?
+"234258","Tristana","Ashe","Volibear","Warwick","Azir","LeBlanc","Zyra","Trundle","Nasus","Riven",?
+"335755","Jhin","Lucian","Ekko","Rek'Sai","Malzahar","Karma","Janna","Leona","Gnar","Quinn",?
+"333989","Jinx","Ezreal","Xin Zhao","Lee Sin","Blitzcrank","Kayle","Bard","Lux","Darius","Vladimir",?
+"337259","Ezreal","Lucian","Nunu","Volibear","Heimerdinger","Kayle","Alistar","Nami","Irelia","Fizz",?
+"14875","Caitlyn","Jinx","Alistar","Rengar","Fizz","Lux","Morgana","Braum","Ekko","Jax",?
+"370669","Vayne","Tristana","Evelynn","Rek'Sai","Kayle","Azir","Thresh","Annie","Sion","Yasuo",?
+"449759","Tristana","Ezreal","Ekko","Amumu","Vladimir","Yasuo","Taric","Thresh","Irelia","Fizz",?
+"512458","Caitlyn","Ezreal","Gragas","Vi","Brand","Diana","Morgana","Alistar","Kennen","Renekton",?
+"143933","Sivir","Ezreal","Evelynn","Ekko","Azir","Annie","Morgana","Zyra","Irelia","Darius",?
+"328694","Graves","Lucian","Xin Zhao","Elise","Zed","Aurelion Sol","Morgana","Lux","Jhin","Jax",?
+"403987","Vayne","Caitlyn","Nocturne","Kha'Zix","Ziggs","Azir","Leona","Thresh","Ahri","Malphite",?
+"436504","Miss Fortune","Lucian","Xin Zhao","Master Yi","Fizz","Ekko","Nautilus","Alistar","Nasus","Tryndamere",?
+"135723","Lucian","Jinx","Nidalee","Evelynn","Karma","Zilean","Blitzcrank","Thresh","Fizz","Renekton",?
+"25073","Lucian","Ashe","Fiddlesticks","Kha'Zix","Vladimir","Annie","Janna","Thresh","Gangplank","Illaoi",?
+"269066","Ezreal","Draven","Volibear","Rammus","Yasuo","Annie","Morgana","Bard","Xin Zhao","Pantheon",?
+"405118","Ezreal","Caitlyn","Wukong","Warwick","Lux","Viktor","Thresh","Blitzcrank","Tryndamere","Maokai",?
+"190972","Lucian","Ezreal","Malzahar","Vi","Wukong","Ziggs","Braum","Janna","Shen","Fiora",?
+"138344","Vayne","Jinx","Sejuani","Volibear","Annie","Lulu","Braum","Blitzcrank","Rengar","Maokai",?
+"91833","Lucian","Ezreal","Sejuani","Gragas","Annie","Fizz","Leona","Thresh","Cho'Gath","Gnar",?
+"73519","Caitlyn","Tristana","Rengar","Shaco","Azir","Diana","Thresh","Blitzcrank","Illaoi","Ekko",?
+"360482","Vayne","Jhin","Malphite","Amumu","Annie","Cassiopeia","Sona","Nami","Tryndamere","Yasuo",?
+"180333","Kog'Maw","Miss Fortune","Diana","Hecarim","Annie","LeBlanc","Blitzcrank","Thresh","Wukong","Maokai",?
+"61522","Jinx","Vayne","Volibear","Xin Zhao","Fizz","Katarina","Lux","Blitzcrank","Taric","Dr. Mundo",?
+"421496","Vayne","Caitlyn","Shyvana","Nunu","Brand","LeBlanc","Malphite","Leona","Jhin","Dr. Mundo",?
+"94745","Jhin","Jinx","Kha'Zix","Fizz","Viktor","Aurelion Sol","Thresh","Bard","Pantheon","Teemo",?
+"236447","Ezreal","Corki","Fiddlesticks","Nocturne","Annie","Katarina","Braum","Morgana","Jax","Trundle",?
+"364164","Ezreal","Lucian","Kha'Zix","Kindred","Diana","Brand","Bard","Zyra","Garen","Darius",?
+"30391","Lucian","Ezreal","Rengar","Hecarim","Morgana","Fizz","Shen","Braum","Master Yi","Cho'Gath",?
+"438460","Miss Fortune","Jhin","Diana","Jax","Swain","Veigar","Lux","Thresh","Maokai","Urgot",?
+"220904","Ezreal","Lucian","Kindred","Rek'Sai","Karthus","Zilean","Soraka","Blitzcrank","Yasuo","Rumble",?
+"344938","Draven","Ashe","Jax","Warwick","Veigar","Annie","Braum","Leona","Gragas","Poppy",?
+"289870","Jinx","Graves","Elise","Jax","Akali","Ahri","Morgana","Leona","Vi","Teemo",?
+"377576","Draven","Kalista","Hecarim","Udyr","Annie","LeBlanc","Morgana","Soraka","Darius","Vayne",?
+"368237","Vayne","Sivir","Kindred","Maokai","LeBlanc","Zed","Morgana","Nautilus","Nasus","Shen",?
+"128213","Ashe","Twitch","Master Yi","Xin Zhao","Zed","Katarina","Brand","Sona","Rumble","Renekton",?
+"55869","Jhin","Lucian","Amumu","Hecarim","Orianna","Fizz","Janna","Thresh","Kayle","Yasuo",?
+"331523","Caitlyn","Vayne","Jax","Master Yi","Azir","Katarina","Nidalee","Malphite","Volibear","Riven",?
+"498868","Caitlyn","Sivir","Rengar","Nidalee","Ahri","Twisted Fate","Thresh","Braum","Jax","Irelia",?
+"138304","Caitlyn","Sivir","Wukong","Shaco","Yasuo","Viktor","Blitzcrank","Sona","Ryze","Garen",?
+"456239","Ashe","Jhin","Lee Sin","Ezreal","Zed","Annie","Blitzcrank","Thresh","Kassadin","Yasuo",?
+"465641","Twitch","Caitlyn","Fizz","Vi","Lissandra","Veigar","Blitzcrank","Thresh","Garen","Yasuo",?
+"204259","Jinx","Lucian","Graves","Rengar","Orianna","Lissandra","Leona","Blitzcrank","Zed","Jax",?
+"53512","Jhin","Vayne","Hecarim","Elise","Twisted Fate","Illaoi","Janna","Morgana","Darius","Tryndamere",?
+"171390","Ashe","Miss Fortune","Lee Sin","Hecarim","Azir","Kassadin","Leona","Heimerdinger","Vladimir","Darius",?
+"386936","Twitch","Lucian","Nocturne","Graves","Ahri","Fizz","Morgana","Karma","Trundle","Gnar",?
+"510649","Jinx","Caitlyn","Nocturne","Volibear","Talon","Ekko","Karma","Taric","Nasus","LeBlanc",?
+"144782","Sivir","Vayne","Twitch","Xin Zhao","Quinn","Viktor","Annie","Poppy","Cho'Gath","Irelia",?
+"367345","Caitlyn","Tristana","Zac","Lee Sin","Veigar","Fizz","Braum","Thresh","Yasuo","Volibear",?
+"495240","Jinx","Vayne","Xin Zhao","Lee Sin","LeBlanc","Karthus","Lux","Sona","Darius","Hecarim",?
+"210951","Draven","Lucian","Vi","Amumu","Orianna","Fizz","Thresh","Morgana","Garen","Yasuo",?
+"107549","Miss Fortune","Vayne","Leona","Rengar","Orianna","Kennen","Lulu","Malphite","Sion","Shyvana",?
+"390743","Miss Fortune","Jinx","Zac","Diana","LeBlanc","Corki","Poppy","Janna","Shen","Pantheon",?
+"294640","Jinx","Lucian","Rumble","Vi","Lux","Katarina","Shen","Zilean","Kennen","Olaf",?
+"3732","Jinx","Ashe","Warwick","Jax","Katarina","Diana","Lux","Thresh","Shen","Illaoi",?
+"232379","Lucian","Vayne","Volibear","Lee Sin","Ahri","Lux","Veigar","Blitzcrank","Fiora","Sion",?
+"174471","Kog'Maw","Miss Fortune","Zac","Kha'Zix","Twisted Fate","LeBlanc","Nami","Alistar","Rengar","Sion",?
+"68968","Ezreal","Vayne","Fizz","Shyvana","Katarina","Zed","Nami","Janna","Karthus","Galio",?
+"247600","Ezreal","Caitlyn","Warwick","Vi","Brand","Ahri","Blitzcrank","Thresh","Jax","Wukong",?
+"354296","Jinx","Vayne","Poppy","Master Yi","Lux","Ahri","Alistar","Taric","Trundle","Darius",?
+"332345","Lucian","Vayne","Diana","Kha'Zix","Ekko","Kassadin","Thresh","Braum","Nautilus","Rumble",?
+"354486","Miss Fortune","Jhin","Xin Zhao","Kindred","Twisted Fate","Fizz","Leona","Bard","Darius","Swain",?
+"211250","Ezreal","Sivir","Udyr","Lee Sin","Brand","Talon","Janna","Blitzcrank","Ekko","Sion",?
+"309671","Sivir","Vayne","Lee Sin","Sejuani","Ahri","Taliyah","Zyra","Nami","Shen","Garen",?
+"304319","Vayne","Tristana","Gragas","Amumu","Akali","Yasuo","Malphite","Morgana","Poppy","Wukong",?
+"269807","Miss Fortune","Vayne","Maokai","Rengar","Diana","Fizz","Braum","Bard","Riven","Nasus",?
+"38898","Vayne","Kog'Maw","Graves","Lee Sin","Ahri","Orianna","Blitzcrank","Brand","Jax","Irelia",?
+"433485","Twitch","Ezreal","Elise","Kha'Zix","Twisted Fate","Quinn","Nami","Braum","Shen","Maokai",?
+"367184","Caitlyn","Lucian","Lee Sin","Jax","Kassadin","Cassiopeia","Blitzcrank","Nautilus","Rumble","Darius",?
+"150819","Caitlyn","Tristana","Rammus","Diana","Katarina","Lissandra","Thresh","Zyra","Kennen","Galio",?
+"213683","Caitlyn","Jhin","Gragas","Xin Zhao","Zed","Ahri","Taric","Blitzcrank","Tryndamere","Irelia",?
+"249039","Caitlyn","Lucian","Rengar","Sejuani","Anivia","Swain","Bard","Alistar","Gangplank","Trundle",?
+"156815","Caitlyn","Kog'Maw","Nautilus","Nidalee","Veigar","Malzahar","Morgana","Nami","Garen","Trundle",?
+"199511","Lucian","Sivir","Master Yi","Gragas","LeBlanc","Fizz","Soraka","Braum","Shen","Sion",?
+"448989","Miss Fortune","Twitch","Lee Sin","Shaco","Fizz","Heimerdinger","Thresh","Shen","Garen","Nasus",?
+"253680","Kalista","Caitlyn","Volibear","Vi","Fizz","Azir","Tahm Kench","Janna","Malphite","Shen",?
+"467943","Ezreal","Miss Fortune","Rammus","Zac","Yasuo","Ahri","Morgana","Thresh","Teemo","Ekko",?
+"269314","Miss Fortune","Draven","Jax","Lee Sin","Orianna","LeBlanc","Malphite","Janna","Sejuani","Nasus",?
+"50752","Ezreal","Jinx","Graves","Vi","Lux","Yasuo","Thresh","Blitzcrank","Rengar","LeBlanc",?
+"288976","Vayne","Caitlyn","Jax","Hecarim","Yasuo","Veigar","Blitzcrank","Thresh","Ekko","Trundle",?
+"138012","Twitch","Corki","Lee Sin","Hecarim","Talon","Azir","Leona","Alistar","Galio","Dr. Mundo",?
+"82605","Twitch","Caitlyn","Elise","Kha'Zix","Annie","Yasuo","Alistar","Thresh","Ryze","Cho'Gath",?
+"174990","Miss Fortune","Caitlyn","Nidalee","Lee Sin","Taliyah","Ziggs","Janna","Alistar","Renekton","Gangplank",?
+"488962","Ashe","Lucian","Volibear","Kindred","Veigar","Riven","Karma","Nami","Irelia","Vladimir",?
+"374493","Kindred","Vayne","Sejuani","Pantheon","Diana","Zed","Thresh","Janna","Shen","Malphite",?
+"113486","Caitlyn","Draven","Zac","Lee Sin","Yasuo","Aatrox","Blitzcrank","Thresh","Pantheon","Riven",?
+"286993","Tristana","Vayne","Nautilus","Shyvana","Akali","Fizz","Alistar","Blitzcrank","Graves","Tryndamere",?
+"68353","Ezreal","Vayne","Fiddlesticks","Kindred","Lucian","Lissandra","Janna","Soraka","Ekko","Tryndamere",?
+"222441","Jhin","Lucian","Nocturne","Skarner","Fizz","Anivia","Vel'Koz","Braum","Gragas","Vladimir",?
+"321968","Jinx","Ezreal","Volibear","Rengar","Yasuo","Cho'Gath","Lulu","Janna","Riven","Irelia",?
+"400491","Tristana","Miss Fortune","Fiddlesticks","Kha'Zix","Diana","Ahri","Braum","Taric","Jax","Nasus",?
+"29948","Corki","Ezreal","Jax","Rek'Sai","Yasuo","Vladimir","Gnar","Janna","Darius","Rumble",?
+"144241","Jhin","Kalista","Rek'Sai","Rammus","Zed","Yasuo","Morgana","Braum","Rumble","Gragas",?
+"116739","Jinx","Lucian","Trundle","Sejuani","Ahri","Zed","Blitzcrank","Nautilus","Xin Zhao","Twitch",?
+"219026","Lucian","Ezreal","Zac","Lee Sin","Lissandra","Fizz","Zyra","Blitzcrank","Garen","Vladimir",?
+"462591","Miss Fortune","Ashe","Rammus","Master Yi","Akali","Twisted Fate","Sona","Braum","Pantheon","Fizz",?
+"473130","Lucian","Miss Fortune","Tryndamere","Rammus","Vladimir","Brand","Annie","Zilean","Soraka","Singed",?
+"332061","Miss Fortune","Ezreal","Vi","Jax","LeBlanc","Yasuo","Morgana","Poppy","Renekton","Ekko",?
+"195143","Lucian","Draven","Twitch","Lee Sin","Lux","Twisted Fate","Blitzcrank","Nami","Yasuo","Garen",?
+"410154","Sivir","Tristana","Rek'Sai","Shyvana","Ekko","Diana","Morgana","Alistar","Pantheon","Volibear",?
+"33625","Vayne","Ezreal","Master Yi","Lee Sin","Talon","Lux","Leona","Janna","Kennen","Garen",?
+"321662","Vayne","Jhin","Lee Sin","Volibear","Yasuo","Zed","Braum","Alistar","Maokai","Cho'Gath",?
+"46806","Sivir","Jinx","Riven","Graves","Brand","Ryze","Soraka","Nami","Dr. Mundo","Renekton",?
+"20072","Jinx","Vayne","Kha'Zix","Gragas","LeBlanc","Fizz","Blitzcrank","Alistar","Gnar","Yasuo",?
+"138534","Caitlyn","Twitch","Master Yi","Xin Zhao","Yasuo","Syndra","Leona","Katarina","Shen","Irelia",?
+"243081","Vayne","Lucian","Lee Sin","Vi","Zed","Annie","Thresh","Braum","Maokai","Fizz",?
+"93132","Corki","Jinx","Sivir","Xin Zhao","LeBlanc","Ahri","Alistar","Braum","Hecarim","Rammus",?
+"318280","Jhin","Vayne","Olaf","Fiddlesticks","Talon","Veigar","Shen","Galio","Irelia","Garen",?
+"355429","Vayne","Ezreal","Pantheon","Rek'Sai","LeBlanc","Katarina","Thresh","Nautilus","Fizz","Cho'Gath",?
+"507377","Caitlyn","Miss Fortune","Lee Sin","Evelynn","Fizz","Kennen","Blitzcrank","Thresh","Jax","Riven",?
+"58950","Ashe","Miss Fortune","Udyr","Master Yi","Teemo","Evelynn","Morgana","Karma","Garen","Xin Zhao",?
+"306032","Draven","Caitlyn","Diana","Rammus","Nidalee","Corki","Taric","Annie","Garen","Trundle",?
+"230210","Vayne","Ashe","Evelynn","Kindred","Viktor","Lux","Nautilus","Braum","Lucian","Darius",?
+"159666","Graves","Varus","Shyvana","Gragas","Cassiopeia","Ezreal","Braum","Taric","Nautilus","Ekko",?
+"518688","Jinx","Ashe","Poppy","Lee Sin","Brand","Gragas","Annie","Zyra","Ekko","Master Yi",?
+"236135","Vayne","Jinx","Jax","Amumu","Swain","Vladimir","Karma","Lux","Jayce","Riven",?
+"229291","Miss Fortune","Ezreal","Lee Sin","Xin Zhao","Viktor","Katarina","Bard","Thresh","Fizz","Nasus",?
+"517330","Sivir","Caitlyn","Master Yi","Xin Zhao","Vel'Koz","Morgana","Lux","Zilean","Lee Sin","Olaf",?
+"289761","Caitlyn","Varus","Master Yi","Warwick","Fizz","Ekko","Karma","Blitzcrank","Taliyah","Tryndamere",?
+"171293","Vayne","Lucian","Evelynn","Volibear","Annie","Gangplank","Alistar","Thresh","Garen","Olaf",?
+"132470","Jinx","Lucian","Hecarim","Rengar","Yasuo","Lux","Morgana","Nami","Lissandra","Maokai",?
+"230651","Vayne","Caitlyn","Maokai","Master Yi","Morgana","Fizz","Braum","Nami","Olaf","Irelia",?
+"447109","Jinx","Caitlyn","Amumu","Master Yi","Yasuo","Akali","Volibear","Braum","Lee Sin","Riven",?
+"452404","Ezreal","Jhin","Shaco","Rek'Sai","Gangplank","Zed","Zyra","Janna","Riven","Akali",?
+"283970","Lucian","Caitlyn","Wukong","Vi","Zyra","Annie","Thresh","Blitzcrank","Darius","Yasuo",?
+"72930","Vayne","Ashe","Lee Sin","Gragas","Azir","Twisted Fate","Blitzcrank","Morgana","Tryndamere","Nasus",?
+"241124","Lucian","Sivir","Shaco","Rengar","Ekko","Ahri","Illaoi","Bard","Trundle","Swain",?
+"131342","Draven","Vayne","Xin Zhao","Lee Sin","Ahri","Diana","Braum","Blitzcrank","Shen","Talon",?
+"320906","Kalista","Caitlyn","Nocturne","Kha'Zix","Fizz","Fiddlesticks","Thresh","Nami","Nasus","Ekko",?
+"128976","Miss Fortune","Lucian","Kha'Zix","Illaoi","Brand","Orianna","Braum","Soraka","Gangplank","Quinn",?
+"6658","Draven","Graves","Rammus","Trundle","Yasuo","Fizz","Blitzcrank","Leona","Swain","Kayle",?
+"300663","Lucian","Caitlyn","Lee Sin","Graves","Lux","Viktor","Bard","Nami","Zac","Poppy",?
+"199027","Sivir","Vayne","Vi","Teemo","Orianna","Veigar","Janna","Soraka","Olaf","Trundle",?
+"165289","Lucian","Tristana","Lee Sin","Nautilus","Yasuo","Diana","Braum","Bard","Nasus","Rammus",?
+"405795","Lucian","Jinx","Tryndamere","Master Yi","Annie","LeBlanc","Brand","Thresh","Malphite","Maokai",?
+"276497","Lucian","Caitlyn","Warwick","Shyvana","Annie","Lissandra","Braum","Soraka","Riven","Ekko",?
+"505824","Ezreal","Vayne","Rengar","Master Yi","Lux","Viktor","Brand","Twisted Fate","Maokai","Pantheon",?
+"414788","Miss Fortune","Lucian","Dr. Mundo","Lee Sin","Vladimir","Yasuo","Karma","Thresh","Maokai","Zed",?
+"176038","Caitlyn","Ashe","Wukong","Rengar","Yasuo","Kassadin","Katarina","Sona","Teemo","Garen",?
+"267115","Caitlyn","Lucian","Fiddlesticks","Ekko","Varus","Zilean","Blitzcrank","Sona","Malphite","Nasus",?
+"184256","Jinx","Vayne","Fizz","Xin Zhao","Teemo","Brand","Morgana","Thresh","Nautilus","Shen",?
+"497099","Jhin","Varus","Lee Sin","Vi","Twisted Fate","Viktor","Leona","Blitzcrank","Ekko","Lulu",?
+"338775","Quinn","Miss Fortune","Diana","Jax","Cho'Gath","Mordekaiser","Thresh","Lux","Illaoi","Shen",?
+"22418","Jhin","Caitlyn","Ekko","Jax","Lux","Wukong","Volibear","Sona","Trundle","Vladimir",?
+"33227","Jinx","Miss Fortune","Nidalee","Amumu","Veigar","Orianna","Alistar","Blitzcrank","Poppy","Aatrox",?
+"375284","Caitlyn","Lucian","Gragas","Amumu","Viktor","Vladimir","Thresh","Janna","Illaoi","Tryndamere",?
+"268956","Jhin","Tristana","Kindred","Graves","Katarina","LeBlanc","Blitzcrank","Taric","Malphite","Volibear",?
+"259428","Caitlyn","Lucian","Lee Sin","Fiddlesticks","Zed","Azir","Leona","Braum","Ekko","Irelia",?
+"485219","Lucian","Graves","Rengar","Lee Sin","Twisted Fate","Vel'Koz","Braum","Annie","Anivia","Yasuo",?
+"244192","Tristana","Lucian","Fiddlesticks","Nocturne","Lux","LeBlanc","Annie","Braum","Rammus","Olaf",?
+"472387","Caitlyn","Lucian","Irelia","Kha'Zix","Azir","Ziggs","Janna","Braum","Gragas","Riven",?
+"407263","Twitch","Caitlyn","Zac","Volibear","Ekko","Lissandra","Thresh","Sona","Tryndamere","Fizz",?
+"36809","Ezreal","Lucian","Malphite","Master Yi","LeBlanc","Diana","Lee Sin","Braum","Yasuo","Maokai",?
+"309181","Twitch","Ezreal","Amumu","Diana","Zed","Ahri","Morgana","Nautilus","Lucian","Akali",?
+"328844","Miss Fortune","Tristana","Fiddlesticks","Lee Sin","Lux","Ahri","Tahm Kench","Blitzcrank","Nasus","Veigar",?
+"305033","Caitlyn","Lucian","Zac","Pantheon","Ryze","Annie","Nami","Morgana","Yasuo","Gangplank",?
+"38681","Ezreal","Draven","Kha'Zix","Rek'Sai","Twisted Fate","LeBlanc","Janna","Leona","Shen","Sion",?
+"261888","Jinx","Ashe","Volibear","Lee Sin","Morgana","Vayne","Thresh","Taric","Lissandra","Taliyah",?
+"247259","Twitch","Ezreal","Rengar","Lee Sin","Annie","Morgana","Leona","Braum","Pantheon","Riven",?
+"283298","Lucian","Miss Fortune","Udyr","Volibear","Ezreal","Veigar","Thresh","Nautilus","Riven","Fizz",?
+"71786","Jinx","Twitch","Rammus","Volibear","Kennen","Lux","Zyra","Amumu","Gnar","Irelia",?
+"398959","Twitch","Caitlyn","Rek'Sai","Kindred","Zed","Katarina","Bard","Aurelion Sol","Wukong","Akali",?
+"111007","Caitlyn","Lucian","Nidalee","Malzahar","Annie","Fizz","Blitzcrank","Leona","Teemo","Taliyah",?
+"155290","Sivir","Tristana","Master Yi","Taliyah","Vladimir","Fizz","Leona","Blitzcrank","Pantheon","Wukong",?
+"8320","Lucian","Ezreal","Kha'Zix","Malphite","Zed","Kayle","Alistar","Janna","Heimerdinger","Renekton",?
+"230215","Ashe","Lucian","Nunu","Graves","LeBlanc","Lulu","Thresh","Bard","Rengar","Pantheon",?
+"48780","Miss Fortune","Kalista","Jax","Skarner","Diana","Vel'Koz","Blitzcrank","Morgana","Jarvan IV","Malphite",?
+"107147","Caitlyn","Varus","Hecarim","Nidalee","LeBlanc","Lux","Blitzcrank","Karma","Irelia","Pantheon",?
+"414057","Vayne","Jhin","Graves","Zac","Yasuo","Kennen","Braum","Thresh","Volibear","Trundle",?
+"244453","Vayne","Lucian","Gragas","Skarner","Yasuo","Morgana","Leona","Fiddlesticks","Zac","Fiora",?
+"326779","Kalista","Vayne","Diana","Warwick","Ziggs","Syndra","Blitzcrank","Thresh","Graves","Fizz",?
+"318207","Tristana","Miss Fortune","Udyr","Elise","Yasuo","Ahri","Leona","Alistar","Shen","Gnar",?
+"514835","Caitlyn","Miss Fortune","Jax","Hecarim","Ahri","Akali","Nami","Morgana","Garen","Irelia",?
+"326050","Vayne","Lucian","Zac","Warwick","Brand","Singed","Alistar","Thresh","Teemo","Darius",?
+"128287","Varus","Ashe","Kha'Zix","Graves","Azir","Cassiopeia","Alistar","Soraka","Malphite","Irelia",?
+"60884","Ashe","Ezreal","Graves","Kha'Zix","LeBlanc","Ahri","Thresh","Taric","Jayce","Riven",?
+"368864","Miss Fortune","Lucian","Tryndamere","Volibear","Vel'Koz","Fizz","Soraka","Anivia","Darius","Riven",?
+"117418","Vayne","Lucian","Nidalee","Jarvan IV","Yasuo","Katarina","Poppy","Thresh","Garen","Riven",?
+"97000","Miss Fortune","Jhin","Diana","Lee Sin","Fizz","Katarina","Lux","Leona","Riven","Gnar",?
+"217711","Caitlyn","Miss Fortune","Warwick","Graves","Fizz","Veigar","Nami","Braum","Renekton","Gangplank",?
+"23423","Lucian","Vayne","Warwick","Nautilus","Azir","Twisted Fate","Leona","Thresh","Kayle","Lissandra",?
+"44796","Ezreal","Vayne","Kha'Zix","Rengar","Lissandra","Yasuo","Thresh","Blitzcrank","Irelia","Malphite",?
+"507100","Vayne","Caitlyn","Elise","Jax","Veigar","Kha'Zix","Soraka","Morgana","Dr. Mundo","Fiora",?
+"454683","Ezreal","Twitch","Jax","Lee Sin","Twisted Fate","Lux","Thresh","Brand","Nasus","Sion",?
+"366979","Vayne","Lucian","Pantheon","Xin Zhao","Yasuo","LeBlanc","Sona","Morgana","Wukong","Vladimir",?
+"275999","Lucian","Jinx","Diana","Shyvana","Yasuo","Viktor","Alistar","Soraka","Volibear","Nasus",?
+"309486","Vayne","Ashe","Amumu","Sejuani","Diana","Azir","Braum","Nautilus","Heimerdinger","Dr. Mundo",?
+"458501","Miss Fortune","Caitlyn","Jarvan IV","Nidalee","LeBlanc","Ahri","Taric","Bard","Tryndamere","Darius",?
+"119511","Lucian","Vayne","Shaco","Trundle","Zed","Anivia","Morgana","Thresh","Teemo","Shen",?
+"255796","Vayne","Tristana","Rengar","Lee Sin","Zed","Heimerdinger","Alistar","Morgana","Malphite","Graves",?
+"212881","Ezreal","Vayne","Shyvana","Quinn","LeBlanc","Talon","Janna","Nami","Volibear","Shen",?
+"95259","Caitlyn","Lucian","Trundle","Lee Sin","Fizz","Diana","Nautilus","Janna","Tryndamere","Fiora",?
+"236913","Corki","Draven","Kassadin","Kindred","Annie","Viktor","Thresh","Zyra","Riven","Tryndamere",?
+"220474","Vayne","Miss Fortune","Amumu","Kha'Zix","Zed","Yasuo","Morgana","Zyra","Garen","Rengar",?
+"174666","Lucian","Caitlyn","Rengar","Kha'Zix","Zed","Veigar","Thresh","Morgana","Teemo","Trundle",?
+"509632","Caitlyn","Miss Fortune","Gragas","Malzahar","Lulu","Anivia","Thresh","Zilean","Riven","Yasuo",?
+"18872","Ezreal","Ashe","Gragas","Sejuani","Taliyah","Twisted Fate","Braum","Lulu","Teemo","Maokai",?
+"300764","Vayne","Ezreal","Master Yi","Graves","Ryze","Xerath","Nami","Alistar","Malphite","Yasuo",?
+"237610","Caitlyn","Sivir","Vi","Diana","Anivia","Ahri","Morgana","Sona","Swain","Akali",?
+"108489","Draven","Twitch","Volibear","Lee Sin","Zed","Yasuo","Zilean","Annie","Cho'Gath","Nasus",?
+"67344","Tristana","Vayne","Xin Zhao","Pantheon","Brand","LeBlanc","Nami","Malphite","Olaf","Shen",?
+"201110","Sivir","Vayne","Fiddlesticks","Pantheon","Yasuo","Kennen","Thresh","Malphite","Nautilus","Hecarim",?
+"399948","Jhin","Vayne","Vi","Sejuani","Malphite","Annie","Thresh","Leona","Fiora","Olaf",?
+"356862","Jinx","Lucian","Nocturne","Graves","Ekko","Veigar","Thresh","Morgana","Fizz","Renekton",?
+"251616","Lucian","Twitch","Elise","Graves","Viktor","Annie","Thresh","Janna","Yasuo","Irelia",?
+"386773","Vayne","Ezreal","Nidalee","Hecarim","Lissandra","Anivia","Blitzcrank","Morgana","Irelia","Shen",?
+"448831","Caitlyn","Lucian","Nidalee","Lee Sin","Akali","Vel'Koz","Karma","Braum","Yasuo","Garen",?
+"60245","Vayne","Jinx","Gragas","Nocturne","Ahri","Vel'Koz","Soraka","Blitzcrank","Darius","Gnar",?
+"377316","Caitlyn","Vayne","Graves","Kha'Zix","Katarina","Ekko","Leona","Bard","Yasuo","Trundle",?
+"499693","Draven","Vayne","Lee Sin","Ekko","Talon","Varus","Zilean","Zyra","Maokai","Jax",?
+"315568","Lucian","Miss Fortune","Kindred","Master Yi","Morgana","LeBlanc","Lux","Bard","Gnar","Volibear",?
+"261247","Caitlyn","Kalista","Xin Zhao","Lee Sin","Azir","Malzahar","Sona","Thresh","Volibear","Nautilus",?
+"108512","Vayne","Lucian","Volibear","Sejuani","Jayce","Fizz","Soraka","Nautilus","Darius","Nasus",?
+"98815","Lucian","Ezreal","Nidalee","Rengar","Riven","LeBlanc","Thresh","Leona","Zed","Wukong",?
+"199617","Caitlyn","Varus","Xin Zhao","Rengar","Cho'Gath","Syndra","Zilean","Lux","Malphite","Gangplank",?
+"814","Jinx","Ezreal","Lee Sin","Master Yi","Ekko","Kayle","Blitzcrank","Tahm Kench","Jax","Swain",?
+"261861","Sivir","Ashe","Evelynn","Kindred","Orianna","Annie","Nautilus","Nami","Renekton","Vladimir",?
+"114582","Draven","Miss Fortune","Shyvana","Diana","LeBlanc","Twisted Fate","Thresh","Leona","Olaf","Irelia",?
+"215004","Vayne","Ezreal","Graves","Kha'Zix","LeBlanc","Brand","Janna","Nami","Gnar","Yasuo",?
+"454478","Sivir","Lucian","Kindred","Udyr","Brand","Swain","Braum","Zyra","Riven","Gnar",?
+"40982","Ezreal","Jinx","Tryndamere","Trundle","Lux","Ahri","Blitzcrank","Volibear","Zilean","Riven",?
+"77256","Jhin","Jinx","Amumu","Lee Sin","Brand","Lux","Blitzcrank","Braum","Vel'Koz","Renekton",?
+"160244","Vayne","Jinx","Lee Sin","Sejuani","Morgana","Ekko","Bard","Sona","Jax","Graves",?
+"363030","Miss Fortune","Twitch","Jax","Warwick","Akali","Azir","Lux","Leona","Riven","Quinn",?
+"440532","Caitlyn","Ezreal","Lee Sin","Rek'Sai","Vladimir","Brand","Soraka","Thresh","Irelia","Malphite",?
+"75408","Ashe","Lucian","Lee Sin","Vi","LeBlanc","Annie","Brand","Thresh","Malphite","Cho'Gath",?
+"65603","Miss Fortune","Tristana","Graves","Nidalee","Fizz","Veigar","Bard","Zyra","Jayce","Illaoi",?
+"216539","Jinx","Sivir","Gragas","Rek'Sai","Zed","Veigar","Nami","Sion","Rengar","Gnar",?
+"147420","Caitlyn","Jhin","Kha'Zix","Nocturne","Twisted Fate","Heimerdinger","Taric","Lulu","Shen","Nautilus",?
+"246856","Miss Fortune","Draven","Amumu","Master Yi","Katarina","Ezreal","Sona","Blitzcrank","Pantheon","Nunu",?
+"116708","Twitch","Tristana","Zac","Skarner","Galio","Viktor","Brand","Nautilus","Volibear","Trundle",?
+"63726","Jinx","Twitch","Shaco","Rek'Sai","LeBlanc","Varus","Thresh","Janna","Shen","Ekko",?
+"352161","Ezreal","Miss Fortune","Malzahar","Jax","Ekko","Yasuo","Blitzcrank","Alistar","Cho'Gath","Fizz",?
+"405594","Miss Fortune","Vayne","Amumu","Sejuani","LeBlanc","Ezreal","Braum","Nami","Maokai","Riven",?
+"134491","Caitlyn","Lucian","Lee Sin","Rengar","Vel'Koz","LeBlanc","Bard","Thresh","Irelia","Riven",?
+"146999","Vayne","Jinx","Shaco","Lee Sin","Fizz","Taliyah","Janna","Sona","Darius","Yasuo",?
+"439333","Vayne","Lucian","Jax","Warwick","Mordekaiser","Fizz","Sona","Thresh","Renekton","Irelia",?
+"220627","Ezreal","Vayne","Lee Sin","Trundle","Viktor","Swain","Alistar","Braum","Nasus","Volibear",?
+"258544","Tristana","Sivir","Lee Sin","Nocturne","Veigar","Ryze","Janna","Thresh","Illaoi","Volibear",?
+"501515","Ezreal","Jinx","Shaco","Amumu","Katarina","Brand","Morgana","Sion","Gnar","Irelia",?
+"404354","Miss Fortune","Graves","Irelia","Lee Sin","Yasuo","Katarina","Volibear","Braum","Darius","Teemo",?
+"282693","Jinx","Lucian","Shaco","Kha'Zix","LeBlanc","Veigar","Leona","Blitzcrank","Darius","Rumble",?
+"424125","Graves","Ashe","Lee Sin","Warwick","Fizz","Azir","Blitzcrank","Leona","Pantheon","Darius",?
+"392456","Vayne","Jhin","Fiddlesticks","Yorick","Azir","Malzahar","Blitzcrank","Soraka","Dr. Mundo","Riven",?
+"410732","Jinx","Vayne","Volibear","Kindred","Brand","Cassiopeia","Blitzcrank","Alistar","Illaoi","Tryndamere",?
+"164204","Ashe","Lucian","Diana","Pantheon","Annie","Swain","Morgana","Thresh","Xin Zhao","Akali",?
+"108961","Vayne","Ezreal","Elise","Kha'Zix","Annie","Fizz","Lulu","Janna","Fiora","Akali",?
+"513396","Sivir","Vayne","Elise","Kindred","Lux","Brand","Amumu","Bard","Teemo","Darius",?
+"183724","Tristana","Graves","Lee Sin","Amumu","Viktor","Veigar","Nami","Blitzcrank","Volibear","Fiora",?
+"84190","Miss Fortune","Draven","Amumu","Gragas","Yasuo","Annie","Thresh","Blitzcrank","Maokai","Renekton",?
+"185115","Jinx","Caitlyn","Kha'Zix","Sion","Lux","Brand","Akali","Bard","Irelia","Riven",?
+"32805","Vayne","Lucian","Udyr","Kindred","Orianna","Zilean","Braum","Veigar","Renekton","Gragas",?
+"242809","Sivir","Lucian","Udyr","Skarner","Xerath","Zilean","Morgana","Janna","Volibear","Garen",?
+"317143","Lucian","Caitlyn","Wukong","Diana","Fizz","Cho'Gath","Morgana","Zyra","Darius","Garen",?
+"422950","Lucian","Miss Fortune","Evelynn","Master Yi","Ahri","Yasuo","Thresh","Alistar","Irelia","Gnar",?
+"155394","Kalista","Caitlyn","Sejuani","Kindred","Lissandra","Gangplank","Thresh","Morgana","Riven","Kayle",?
+"365211","Miss Fortune","Sivir","Zac","Rengar","Kayle","Swain","Soraka","Thresh","Trundle","Gnar",?
+"517293","Twitch","Vayne","Zac","Jax","Zed","Yasuo","Braum","Blitzcrank","Illaoi","Poppy",?
+"113556","Jinx","Miss Fortune","Kha'Zix","Amumu","Brand","Heimerdinger","Morgana","Lux","Garen","Hecarim",?
+"298147","Vayne","Tristana","Fiddlesticks","Gragas","Heimerdinger","Zed","Alistar","Volibear","Dr. Mundo","Ekko",?
+"131453","Vayne","Kalista","Kindred","Olaf","Heimerdinger","Lissandra","Alistar","Lulu","Darius","Gnar",?
+"146025","Jinx","Twitch","Kindred","Master Yi","LeBlanc","Yasuo","Braum","Taric","Vladimir","Irelia",?
+"177269","Ashe","Vayne","Darius","Hecarim","LeBlanc","Fizz","Bard","Thresh","Ekko","Gnar",?
+"41342","Draven","Miss Fortune","Nidalee","Lee Sin","LeBlanc","Zed","Nami","Lux","Tryndamere","Azir",?
+"329451","Vayne","Caitlyn","Nocturne","Ekko","Azir","Yasuo","Janna","Thresh","Swain","Kennen",?
+"24665","Ezreal","Vayne","Sejuani","Amumu","Viktor","Kassadin","Blitzcrank","Alistar","Irelia","Gangplank",?
+"22249","Miss Fortune","Vayne","Fizz","Rengar","Ekko","Twisted Fate","Braum","Morgana","Xin Zhao","Dr. Mundo",?
+"240190","Tristana","Vayne","Nocturne","Sejuani","Ryze","Vel'Koz","Soraka","Zyra","Teemo","Irelia",?
+"329592","Lucian","Miss Fortune","Kha'Zix","Volibear","Orianna","Malzahar","Bard","Brand","Malphite","Fizz",?
+"175112","Vayne","Lucian","Fiddlesticks","Nidalee","Viktor","Katarina","Blitzcrank","Braum","Jax","Dr. Mundo",?
+"172560","Kalista","Caitlyn","Lee Sin","Amumu","Orianna","Vladimir","Thresh","Morgana","Gnar","Darius",?
+"384876","Caitlyn","Ezreal","Amumu","Vi","LeBlanc","Morgana","Sona","Thresh","Darius","Rumble",?
+"470909","Lucian","Caitlyn","Warwick","Lee Sin","Brand","Ahri","Lux","Blitzcrank","Rumble","Ryze",?
+"212342","Ezreal","Caitlyn","Amumu","Rengar","Malzahar","Syndra","Zilean","Sona","Graves","Irelia",?
+"139177","Lucian","Jinx","Lee Sin","Rammus","Fizz","Tristana","Morgana","Sona","Renekton","Trundle",?
+"397444","Twitch","Lucian","Lee Sin","Gragas","Ryze","Brand","Morgana","Janna","Yasuo","Riven",?
+"172147","Jinx","Caitlyn","Diana","Amumu","Kassadin","Ahri","Janna","Nautilus","Wukong","Malphite",?
+"115961","Jinx","Lucian","Evelynn","Vayne","Annie","LeBlanc","Thresh","Trundle","Riven","Renekton",?
+"254919","Ashe","Vayne","Xin Zhao","Rek'Sai","Katarina","Twisted Fate","Zyra","Nautilus","Yasuo","Ekko",?
+"162403","Ashe","Vayne","Kindred","Kha'Zix","Veigar","Brand","Morgana","Thresh","Rengar","Garen",?
+"222394","Caitlyn","Ezreal","Elise","Rek'Sai","Viktor","Swain","Karma","Blitzcrank","Kayle","Lissandra",?
+"304299","Ezreal","Lucian","Shaco","Rengar","Ekko","LeBlanc","Bard","Thresh","Kayle","Wukong",?
+"472232","Twitch","Varus","Zac","Master Yi","Azir","Zed","Sona","Morgana","Mordekaiser","Volibear",?
+"63818","Ezreal","Jinx","Shaco","Elise","Syndra","LeBlanc","Braum","Soraka","Ekko","Sion",?
+"77169","Caitlyn","Ezreal","Pantheon","Rengar","Vel'Koz","LeBlanc","Brand","Nautilus","Yasuo","Swain",?
+"338426","Lucian","Miss Fortune","Tahm Kench","Rengar","Morgana","Teemo","Sona","Blitzcrank","Kindred","Urgot",?
+"246311","Twitch","Jhin","Zac","Hecarim","Kayle","Fizz","Nautilus","Morgana","Illaoi","Urgot",?
+"98215","Lucian","Ezreal","Vi","Rengar","Azir","Ahri","Bard","Thresh","Jax","Poppy",?
+"461817","Lucian","Jinx","Gragas","Fizz","LeBlanc","Viktor","Morgana","Thresh","Darius","Cassiopeia",?
+"193760","Miss Fortune","Tristana","Diana","Amumu","Quinn","Yasuo","Morgana","Tahm Kench","Maokai","Jax",?
+"157440","Vayne","Lucian","Shaco","Lee Sin","Lux","Taliyah","Thresh","Blitzcrank","Trundle","Singed",?
+"84846","Kog'Maw","Lucian","Amumu","Rengar","Veigar","Katarina","Alistar","Blitzcrank","Maokai","Darius",?
+"228097","Jhin","Ezreal","Udyr","Fiddlesticks","Xerath","Ekko","Sona","Leona","Vladimir","Vayne",?
+"452019","Jhin","Vayne","Rek'Sai","Rammus","LeBlanc","Ahri","Alistar","Brand","Fiora","Malphite",?
+"9045","Quinn","Lucian","Warwick","Aatrox","Brand","Katarina","Blitzcrank","Alistar","Fizz","Singed",?
+"156594","Twitch","Vayne","Shaco","Graves","Karma","Ahri","Braum","Thresh","Rek'Sai","Ekko",?
+"44635","Vayne","Lucian","Master Yi","Lee Sin","Zed","Ahri","Poppy","Thresh","Jax","Tryndamere",?
+"506914","Caitlyn","Vayne","Elise","Vi","Twisted Fate","Veigar","Morgana","Nami","Dr. Mundo","Hecarim",?
+"7398","Lucian","Ashe","Master Yi","Volibear","Talon","Annie","Thresh","Alistar","Olaf","Irelia",?
+"329236","Draven","Ashe","Master Yi","Lee Sin","Fizz","Ahri","Lux","Leona","Amumu","Rumble",?
+"478499","Ashe","Lucian","Shaco","Kindred","Lissandra","Yasuo","Braum","Morgana","Ekko","Pantheon",?
+"405535","Lucian","Miss Fortune","Vi","Jax","LeBlanc","Diana","Leona","Braum","Malphite","Volibear",?
+"249799","Jinx","Lucian","Rammus","Hecarim","Lissandra","Yasuo","Sona","Braum","Renekton","Volibear",?
+"225804","Vayne","Jinx","Lee Sin","Shaco","Ahri","Lux","Morgana","Thresh","Fiora","Gangplank",?
+"70075","Vayne","Lucian","Lee Sin","Gragas","Twisted Fate","Viktor","Thresh","Brand","Cho'Gath","Yasuo",?
+"59912","Jinx","Ashe","Lee Sin","Fiddlesticks","Xerath","Lux","Taliyah","Sona","Wukong","Malphite",?
+"506752","Ashe","Kog'Maw","Volibear","Xin Zhao","Akali","Lux","Leona","Morgana","Shyvana","Aatrox",?
+"25407","Vayne","Lucian","Nidalee","Graves","Talon","Twisted Fate","Soraka","Morgana","Mordekaiser","Cho'Gath",?
+"350524","Vayne","Lucian","Lee Sin","Amumu","Fizz","Xerath","Lux","Morgana","Volibear","Nasus",?
+"19822","Tristana","Lucian","Xin Zhao","Shyvana","Syndra","Fizz","Trundle","Taric","Darius","Pantheon",?
+"267795","Draven","Jhin","Gragas","Lee Sin","Vel'Koz","Lux","Blitzcrank","Alistar","Graves","Olaf",?
+"237919","Caitlyn","Jinx","Warwick","Lee Sin","Lux","Diana","Blitzcrank","Brand","Ekko","Wukong",?
+"183092","Ezreal","Lucian","Lee Sin","Irelia","Fizz","Gangplank","Thresh","Malphite","Morgana","Rengar",?
+"129840","Lucian","Miss Fortune","Akali","Lee Sin","Lulu","Ekko","Alistar","Malphite","Yasuo","Maokai",?
+"480120","Lucian","Vayne","Ekko","Master Yi","Twisted Fate","Talon","Karma","Lux","Kayle","Renekton",?
+"244327","Miss Fortune","Draven","Rengar","Vi","Lux","Renekton","Zyra","Morgana","Nasus","Akali",?
+"43820","Ezreal","Caitlyn","Lee Sin","Graves","Twisted Fate","Illaoi","Thresh","Soraka","Gnar","Kennen",?
+"342082","Jinx","Miss Fortune","Diana","Xin Zhao","Zed","Vel'Koz","Braum","Karma","Garen","Dr. Mundo",?
+"239969","Ezreal","Caitlyn","Master Yi","Volibear","Karthus","Yasuo","Taric","Alistar","Irelia","Darius",?
+"408395","Miss Fortune","Ezreal","Malzahar","Volibear","Azir","Fizz","Janna","Blitzcrank","Cho'Gath","Wukong",?
+"514625","Vayne","Sivir","Zac","Shyvana","Kayle","Vel'Koz","Thresh","Soraka","Ryze","Kha'Zix",?
+"53160","Caitlyn","Sivir","Dr. Mundo","Kindred","Orianna","Vel'Koz","Morgana","Blitzcrank","Nasus","Pantheon",?
+"239835","Twitch","Caitlyn","Rek'Sai","Hecarim","Twisted Fate","Viktor","Karma","Soraka","Riven","Graves",?
+"147571","Sivir","Jinx","Volibear","Evelynn","LeBlanc","Veigar","Janna","Taric","Wukong","Malphite",?
+"120286","Vayne","Tristana","Lee Sin","Skarner","Orianna","Annie","Bard","Thresh","Fiora","Yasuo",?
+"88639","Jhin","Caitlyn","Zac","Nidalee","Annie","Azir","Blitzcrank","Leona","Irelia","Pantheon",?
+"482195","Miss Fortune","Jhin","Lee Sin","Jax","Vel'Koz","Malzahar","Nami","Brand","Darius","Garen",?
+"397765","Tristana","Lucian","Rengar","Kha'Zix","Malzahar","Vel'Koz","Fiddlesticks","Leona","Teemo","Dr. Mundo",?
+"116366","Varus","Jinx","Warwick","Nunu","Fizz","Lux","Blitzcrank","Taric","Ryze","Yasuo",?
+"403999","Miss Fortune","Kalista","Hecarim","Amumu","Aurelion Sol","Ahri","Sona","Rammus","Jax","Teemo",?
+"433729","Caitlyn","Vayne","Zac","Jax","Ekko","LeBlanc","Lux","Sona","Graves","Ryze",?
+"495105","Vayne","Ezreal","Amumu","Rengar","Ryze","Syndra","Blitzcrank","Thresh","Irelia","Kennen",?
+"63245","Ezreal","Miss Fortune","Udyr","Evelynn","Yasuo","Lux","Taliyah","Soraka","Teemo","Ekko",?
+"291352","Twitch","Caitlyn","Diana","Fiddlesticks","Twisted Fate","Yasuo","Gragas","Nami","Trundle","Rengar",?
+"401170","Jhin","Vayne","Warwick","Lee Sin","Diana","Yasuo","Soraka","Sona","Teemo","Vladimir",?
+"448293","Lucian","Vayne","Rek'Sai","Rengar","Fizz","LeBlanc","Bard","Morgana","Poppy","Yasuo",?
+"399591","Draven","Vayne","Kha'Zix","Lee Sin","Lux","Morgana","Thresh","Braum","Gragas","Riven",?
+"438474","Miss Fortune","Tristana","Master Yi","Amumu","Ahri","LeBlanc","Sona","Blitzcrank","Garen","Fiora",?
+"223242","Ezreal","Twitch","Ekko","Teemo","Ahri","Viktor","Janna","Thresh","Renekton","Zac",?
+"515479","Lucian","Miss Fortune","Diana","Lee Sin","Yasuo","Katarina","Cho'Gath","Malphite","Riven","Nasus",?
+"307067","Vayne","Miss Fortune","Amumu","Gragas","Zed","Ryze","Blitzcrank","Alistar","Irelia","Yasuo",?
+"332645","Caitlyn","Ezreal","Lee Sin","Sejuani","Yasuo","Talon","Blitzcrank","Nautilus","Cho'Gath","Darius",?
+"89622","Vayne","Caitlyn","Jax","Master Yi","Fizz","Malphite","Thresh","Tahm Kench","Sivir","Teemo",?
+"333467","Jinx","Lucian","Rengar","Graves","Lux","Brand","Karma","Zilean","Illaoi","Wukong",?
+"84587","Caitlyn","Miss Fortune","Xin Zhao","Fiddlesticks","Yasuo","Ryze","Leona","Thresh","Rumble","Kennen",?
+"90912","Ezreal","Lucian","Rengar","Rek'Sai","LeBlanc","Zilean","Janna","Braum","Renekton","Riven",?
+"446156","Caitlyn","Kalista","Pantheon","Lee Sin","Ekko","Talon","Morgana","Shen","Cho'Gath","Vladimir",?
+"171137","Vayne","Lucian","Kha'Zix","Sejuani","Ahri","Orianna","Janna","Thresh","Illaoi","Garen",?
+"364085","Caitlyn","Lucian","Trundle","Kindred","Syndra","Morgana","Nami","Nautilus","Darius","Volibear",?
+"159862","Miss Fortune","Vayne","Lee Sin","Volibear","Vel'Koz","Alistar","Nami","Blitzcrank","Warwick","Vladimir",?
+"278506","Vayne","Twitch","Vi","Gragas","Ezreal","Viktor","Janna","Alistar","Darius","Renekton",?
+"331427","Draven","Tristana","Vi","Master Yi","Annie","Zed","Morgana","Blitzcrank","Jax","Vayne",?
+"465871","Caitlyn","Jinx","Rammus","Aatrox","Lucian","Azir","Zyra","Janna","Irelia","Malphite",?
+"480302","Caitlyn","Lucian","Skarner","Vi","Teemo","Vel'Koz","Lulu","Thresh","Irelia","Rengar",?
+"380872","Vayne","Lucian","Kha'Zix","Lee Sin","LeBlanc","Azir","Blitzcrank","Thresh","Rengar","Fizz",?
+"38875","Caitlyn","Lucian","Ekko","Nocturne","Yasuo","Annie","Morgana","Leona","Pantheon","Poppy",?
+"333001","Jinx","Tristana","Skarner","Master Yi","Vladimir","Gragas","Blitzcrank","Braum","Pantheon","Cho'Gath",?
+"459489","Jhin","Vayne","Amumu","Vi","Yasuo","Katarina","Braum","Blitzcrank","Trundle","Akali",?
+"506936","Ashe","Ezreal","Rengar","Nidalee","Fizz","Vladimir","Zilean","Braum","Malphite","Poppy",?
+"55795","Vayne","Jinx","Shaco","Rammus","Karthus","Twisted Fate","Zilean","Thresh","Jax","Taliyah",?
+"256958","Jinx","Vayne","Malphite","Master Yi","Syndra","Riven","Zyra","Soraka","Yasuo","Nasus",?
+"334501","Lucian","Jinx","Rammus","Gragas","LeBlanc","Annie","Blitzcrank","Lulu","Vladimir","Tryndamere",?
+"447891","Jinx","Ezreal","Evelynn","Lee Sin","Fizz","LeBlanc","Morgana","Braum","Poppy","Malphite",?
+"511238","Jinx","Sivir","Xin Zhao","Amumu","Azir","Cassiopeia","Janna","Alistar","Nasus","Fiora",?
+"29583","Vayne","Caitlyn","Malphite","Hecarim","Taliyah","Twisted Fate","Annie","Nautilus","Tryndamere","Yasuo",?
+"108540","Jinx","Caitlyn","Lee Sin","Olaf","Annie","Riven","Thresh","Bard","Illaoi","Kennen",?
+"26801","Jhin","Vayne","Skarner","Rammus","Vel'Koz","Veigar","Soraka","Morgana","Xin Zhao","Olaf",?
+"7389","Caitlyn","Miss Fortune","Elise","Amumu","Orianna","Zyra","Morgana","Braum","Yasuo","Dr. Mundo",?
+"214516","Lucian","Graves","Kindred","Lee Sin","Twisted Fate","Quinn","Morgana","Thresh","Darius","Garen",?
+"82880","Varus","Miss Fortune","Kha'Zix","Amumu","Lux","LeBlanc","Bard","Morgana","Nasus","Irelia",?
+"389430","Jinx","Tristana","Rengar","Nunu","LeBlanc","Katarina","Veigar","Poppy","Swain","Ekko",?
+"345450","Jhin","Vayne","Sejuani","Rengar","Viktor","Orianna","Bard","Karma","Maokai","Renekton",?
+"407612","Miss Fortune","Kalista","Master Yi","Lee Sin","Malzahar","Kha'Zix","Morgana","Thresh","Xin Zhao","Quinn",?
+"205540","Lucian","Miss Fortune","Xin Zhao","Katarina","Ahri","Zed","Alistar","Lux","Draven","Nasus",?
+"368858","Vayne","Lucian","Fiddlesticks","Wukong","Riven","Lux","Braum","Morgana","Lee Sin","Nautilus",?
+"262184","Jhin","Tristana","Kha'Zix","Kindred","Fizz","LeBlanc","Alistar","Braum","Hecarim","Gangplank",?
+"239988","Caitlyn","Ezreal","Gragas","Evelynn","Brand","Zed","Thresh","Nami","Gnar","Garen",?
+"491428","Ezreal","Lucian","Olaf","Graves","Vel'Koz","Veigar","Thresh","Leona","Fiora","Gnar",?
+"155794","Ezreal","Lucian","Amumu","Warwick","Azir","Yasuo","Alistar","Sona","Hecarim","Darius",?
+"185188","Tristana","Caitlyn","Ekko","Amumu","Orianna","Lissandra","Braum","Janna","Irelia","Vladimir",?
+"322350","Sivir","Ashe","Kha'Zix","Fiddlesticks","Katarina","Annie","Thresh","Morgana","Riven","Master Yi",?
+"258365","Caitlyn","Lucian","Pantheon","Vi","Zed","Akali","Leona","Blitzcrank","Ekko","Malphite",?
+"321996","Jinx","Lucian","Rengar","Kha'Zix","Taliyah","Akali","Braum","Leona","Irelia","Gnar",?
+"428287","Twitch","Tristana","Vi","Gragas","Azir","Veigar","Bard","Morgana","Hecarim","Swain",?
+"427754","Ezreal","Lucian","Zac","Kindred","Veigar","Twisted Fate","Morgana","Leona","Gangplank","Riven",?
+"196107","Vayne","Kog'Maw","Lee Sin","Volibear","Veigar","Akali","Taric","Janna","Tryndamere","Renekton",?
+"292461","Caitlyn","Ezreal","Jax","Amumu","Veigar","Azir","Morgana","Braum","Nasus","Malphite",?
+"333352","Jinx","Ashe","Rek'Sai","Quinn","Annie","Azir","Trundle","Nautilus","Poppy","Malphite",?
+"514767","Lucian","Vayne","Xin Zhao","Sejuani","Zilean","LeBlanc","Blitzcrank","Alistar","Irelia","Yasuo",?
+"458605","Jinx","Vayne","Lucian","Sejuani","Tryndamere","Diana","Thresh","Lulu","Kha'Zix","Garen",?
+"116415","Sivir","Caitlyn","Udyr","Nocturne","Twisted Fate","Morgana","Soraka","Nami","Nasus","Yasuo",?
+"188902","Lucian","Kalista","Shaco","Lee Sin","Azir","Galio","Lux","Thresh","Irelia","Yasuo",?
+"277026","Ashe","Caitlyn","Graves","Lee Sin","Ahri","Annie","Morgana","Blitzcrank","Riven","Ryze",?
+"150067","Miss Fortune","Quinn","Zac","Rengar","Azir","Ekko","Malphite","Sona","Nasus","Fiora",?
+"206375","Caitlyn","Ezreal","Hecarim","Nunu","Katarina","Zilean","Leona","Soraka","Trundle","Aatrox",?
+"327969","Vayne","Varus","Warwick","Vi","Yasuo","Swain","Karma","Lux","Malphite","Jax",?
+"70976","Ashe","Jinx","Graves","Fiddlesticks","Azir","Yasuo","Zyra","Alistar","Malphite","Zilean",?
+"349986","Lucian","Jinx","Amumu","Jax","Akali","Veigar","Alistar","Sona","Darius","Pantheon",?
+"33618","Miss Fortune","Lucian","Zac","Vi","Yasuo","Annie","Soraka","Thresh","Jarvan IV","Malphite",?
+"101785","Lucian","Jinx","Master Yi","Rengar","LeBlanc","Veigar","Poppy","Alistar","Olaf","Yasuo",?
+"385118","Ezreal","Vayne","Nautilus","Rengar","Veigar","Katarina","Lux","Malphite","Illaoi","Trundle",?
+"436723","Lucian","Vayne","Shyvana","Xin Zhao","Syndra","Orianna","Taric","Nami","Fizz","Malphite",?
+"194345","Sivir","Caitlyn","Lee Sin","Amumu","Diana","Yasuo","Leona","Alistar","Vladimir","Garen",?
+"48383","Jinx","Vayne","Master Yi","Rengar","Veigar","Cho'Gath","Lulu","Soraka","Jarvan IV","Yasuo",?
+"271187","Ezreal","Miss Fortune","Elise","Lee Sin","Fizz","Zed","Sion","Sona","Maokai","Kayle",?
+"53884","Ezreal","Miss Fortune","Master Yi","Evelynn","Ahri","Fizz","Nautilus","Leona","Tryndamere","Dr. Mundo",?
+"292719","Tristana","Lucian","Malphite","Poppy","Veigar","LeBlanc","Nami","Soraka","Shen","Renekton",?
+"408306","Ezreal","Lucian","Diana","Rek'Sai","Azir","LeBlanc","Karma","Thresh","Poppy","Trundle",?
+"207417","Varus","Ashe","Nocturne","Rengar","Zyra","Fizz","Blitzcrank","Sona","Singed","Olaf",?
+"461198","Varus","Draven","Kha'Zix","Xin Zhao","Yasuo","Ziggs","Braum","Morgana","Jarvan IV","Garen",?
+"200105","Lucian","Jhin","Evelynn","Shyvana","Fiddlesticks","Zed","Braum","Thresh","Vladimir","Ahri",?
+"97300","Kalista","Lucian","Shyvana","Kindred","Yasuo","Orianna","Blitzcrank","Braum","Darius","Jax",?
+"267586","Caitlyn","Ashe","Vi","Master Yi","Cho'Gath","Cassiopeia","Alistar","Morgana","Jax","Irelia",?
+"456928","Ashe","Lucian","Kha'Zix","Lee Sin","Fizz","Diana","Annie","Braum","Malphite","Darius",?
+"411119","Vayne","Jinx","Kha'Zix","Rumble","Azir","Gangplank","Morgana","Thresh","Maokai","Hecarim",?
+"62980","Vayne","Ezreal","Diana","Gragas","Azir","LeBlanc","Morgana","Blitzcrank","Malphite","Yasuo",?
+"236806","Kog'Maw","Lucian","Gragas","Kindred","Twisted Fate","Viktor","Morgana","Braum","Maokai","Rammus",?
+"103311","Ashe","Caitlyn","Volibear","Rengar","Varus","LeBlanc","Alistar","Taric","Pantheon","Zac",?
+"55008","Ashe","Jinx","Vi","Amumu","Lux","Ahri","Sona","Morgana","Teemo","Pantheon",?
+"265504","Sivir","Twitch","Amumu","Master Yi","Fizz","LeBlanc","Sona","Blitzcrank","Darius","Gragas",?
+"223488","Lucian","Draven","Rek'Sai","Lee Sin","LeBlanc","Fizz","Bard","Thresh","Vladimir","Irelia",?
+"466715","Vayne","Jhin","Kindred","Nocturne","Malzahar","Viktor","Lulu","Karma","Darius","Irelia",?
+"139600","Tristana","Kog'Maw","Master Yi","Lee Sin","Veigar","Aurelion Sol","Braum","Maokai","Pantheon","Jax",?
+"440828","Ashe","Miss Fortune","Gragas","Xin Zhao","Annie","Lissandra","Soraka","Volibear","Irelia","Zed",?
+"399010","Lucian","Vayne","Nidalee","Rengar","Zed","Azir","Thresh","Lux","Shyvana","Nautilus",?
+"482943","Miss Fortune","Tristana","Volibear","Jax","Yasuo","Twisted Fate","Sona","Leona","Dr. Mundo","Maokai",?
+"456201","Sivir","Caitlyn","Sejuani","Rengar","Veigar","Swain","Braum","Thresh","Nasus","Vladimir",?
+"391504","Caitlyn","Ashe","Malphite","Sejuani","Lux","Galio","Annie","Taric","Nasus","Volibear",?
+"11342","Draven","Caitlyn","Diana","Xin Zhao","Lux","Vladimir","Zyra","Lulu","Gangplank","Quinn",?
+"103523","Jinx","Ashe","Nocturne","Vi","Lulu","Morgana","Thresh","Alistar","Trundle","Renekton",?
+"384182","Jhin","Vayne","Udyr","Graves","Veigar","Lux","Alistar","Braum","Ekko","Maokai",?
+"414125","Vayne","Caitlyn","Rek'Sai","Evelynn","Azir","Lux","Braum","Janna","Irelia","Kennen",?
+"128435","Miss Fortune","Kog'Maw","Evelynn","Kha'Zix","Fizz","Heimerdinger","Malphite","Alistar","Darius","Fiora",?
+"446197","Kalista","Vayne","Lee Sin","Jarvan IV","Zed","Yasuo","Braum","Alistar","Irelia","Master Yi",?
+"493309","Twitch","Draven","Master Yi","Amumu","Orianna","Diana","Morgana","Leona","Garen","Poppy",?
+"511330","Lucian","Sivir","Master Yi","Ekko","Ahri","Annie","Thresh","Nami","Trundle","Nocturne",?
+"144851","Jhin","Ezreal","Volibear","Diana","Ahri","Ekko","Morgana","Sona","Garen","Riven",?
+"130854","Lucian","Jhin","Amumu","Nocturne","Lux","Nidalee","Blitzcrank","Alistar","Rumble","Illaoi",?
+"129302","Ezreal","Vayne","Nidalee","Rengar","Zed","Brand","Bard","Thresh","Renekton","Malphite",?
+"248433","Tristana","Jinx","Rengar","Jax","Teemo","Yasuo","Zac","Cho'Gath","Garen","Vel'Koz",?
+"121208","Graves","Lucian","Xin Zhao","Volibear","Katarina","Twisted Fate","Gragas","Lux","Yasuo","Ekko",?
+"65587","Lucian","Caitlyn","Shaco","Rammus","Katarina","Wukong","Leona","Brand","Darius","Riven",?
+"198366","Lucian","Caitlyn","Rengar","Kindred","Katarina","Lux","Alistar","Janna","Kha'Zix","Yasuo",?
+"169732","Corki","Lucian","Lee Sin","Master Yi","Kassadin","Yasuo","Lulu","Malphite","Teemo","Nasus",?
+"288939","Ezreal","Tristana","Warwick","Lee Sin","Annie","Aurelion Sol","Blitzcrank","Thresh","Poppy","Shen",?
+"53787","Vayne","Kog'Maw","Kha'Zix","Warwick","Syndra","Kennen","Nami","Soraka","Singed","Maokai",?
+"497653","Miss Fortune","Vayne","Jax","Kha'Zix","Ekko","Ahri","Lux","Blitzcrank","Renekton","Riven",?
+"66441","Caitlyn","Twitch","Malzahar","Jax","Zed","Talon","Taric","Alistar","Volibear","Maokai",?
+"375430","Jinx","Twitch","Trundle","Jax","Twisted Fate","Fiora","Thresh","Soraka","Volibear","Nasus",?
+"459566","Quinn","Lucian","Kha'Zix","Lee Sin","Yasuo","LeBlanc","Lissandra","Sona","Graves","Rengar",?
+"197277","Ezreal","Jhin","Fiddlesticks","Vi","Yasuo","Annie","Tahm Kench","Alistar","Karthus","LeBlanc",?
+"354212","Twitch","Vayne","Nocturne","Jax","Akali","Veigar","Taric","Gragas","Garen","Trundle",?
+"283556","Twitch","Lucian","Zac","Evelynn","Gangplank","Xerath","Soraka","Blitzcrank","Vladimir","Trundle",?
+"379427","Jinx","Miss Fortune","Evelynn","Master Yi","Twisted Fate","Xerath","Thresh","Nautilus","Malphite","Darius",?
+"230063","Vayne","Jhin","Gragas","Hecarim","Lissandra","Jayce","Sona","Zyra","Irelia","Maokai",?
+"177321","Ezreal","Vayne","Kindred","Shaco","Veigar","Yasuo","Blitzcrank","Leona","Gangplank","Malphite",?
+"372139","Vayne","Lucian","Sejuani","Lee Sin","Azir","Lux","Volibear","Alistar","Malphite","Ekko",?
+"416952","Vayne","Caitlyn","Volibear","Rek'Sai","Kennen","Yasuo","Zyra","Taric","Darius","Ekko",?
+"363933","Vayne","Jinx","Brand","Jarvan IV","Caitlyn","Wukong","Karma","Nautilus","Rengar","Darius",?
+"324838","Jinx","Jhin","Kha'Zix","Elise","Annie","Yasuo","Brand","Morgana","Jax","Nautilus",?
+"50353","Twitch","Lucian","Elise","Nautilus","Yasuo","Lux","Alistar","Nami","Darius","Malphite",?
+"67195","Ashe","Caitlyn","Rengar","Graves","Fiddlesticks","Quinn","Braum","Thresh","Maokai","Riven",?
+"381562","Urgot","Lucian","Jax","Gragas","Zed","Yasuo","Tahm Kench","Braum","Renekton","Ekko",?
+"360822","Varus","Ashe","Shyvana","Elise","Lux","Veigar","Soraka","Zilean","Akali","Riven",?
+"82927","Caitlyn","Twitch","Trundle","Vi","Ahri","Azir","Thresh","Leona","Irelia","Teemo",?
+"121918","Ezreal","Lucian","Nidalee","Master Yi","Twisted Fate","Ahri","Janna","Thresh","Fiora","Rammus",?
+"478576","Miss Fortune","Jinx","Rek'Sai","Amumu","Akali","Yasuo","Thresh","Lulu","Jax","Irelia",?
+"99555","Jinx","Miss Fortune","Sejuani","Amumu","Zed","Xin Zhao","Thresh","Karma","Riven","Graves",?
+"300649","Vayne","Ezreal","Shaco","Kha'Zix","Annie","Lissandra","Thresh","Lux","Riven","Gnar",?
+"467557","Vayne","Lucian","Fiddlesticks","Shen","Ahri","Fizz","Alistar","Malphite","Ekko","Tryndamere",?
+"430879","Ezreal","Jhin","Kindred","Zac","Viktor","Yasuo","Bard","Soraka","Rumble","Katarina",?
+"33743","Vayne","Draven","Vi","Lee Sin","Ezreal","Veigar","Nami","Thresh","Lissandra","Ekko",?
+"336330","Vayne","Twitch","Trundle","Volibear","Corki","Veigar","Braum","Morgana","Fizz","Aatrox",?
+"176598","Caitlyn","Kalista","Elise","Rek'Sai","Fizz","LeBlanc","Sona","Alistar","Ekko","Irelia",?
+"442203","Sivir","Jhin","Graves","Xin Zhao","Kassadin","Ahri","Karma","Braum","Nautilus","Garen",?
+"506838","Jinx","Caitlyn","Graves","Lee Sin","Azir","Kayle","Bard","Alistar","Shen","Jarvan IV",?
+"460000","Ezreal","Caitlyn","Ekko","Diana","Viktor","Lissandra","Zyra","Blitzcrank","Renekton","Rengar",?
+"295840","Tristana","Jinx","Rek'Sai","Graves","Fizz","Morgana","Bard","Leona","Nasus","Volibear",?
+"171348","Caitlyn","Tristana","Vi","Hecarim","LeBlanc","Zed","Lux","Braum","Nautilus","Garen",?
+"75681","Twitch","Ezreal","Graves","Master Yi","Malzahar","Swain","Thresh","Veigar","Nasus","Illaoi",?
+"170298","Miss Fortune","Tristana","Master Yi","Hecarim","Veigar","Orianna","Morgana","Nami","Garen","Taliyah",?
+"58557","Lucian","Jhin","Rengar","Udyr","Talon","Zed","Janna","Nami","Ekko","Singed",?
+"406798","Lucian","Ezreal","Graves","Evelynn","Taliyah","Yasuo","Zyra","Leona","Shen","Tryndamere",?
+"199334","Vayne","Jinx","Vi","Sejuani","Lux","Katarina","Nautilus","Alistar","Ryze","Darius",?
+"313730","Jinx","Vayne","Kha'Zix","Diana","Lulu","Brand","Blitzcrank","Leona","Riven","Irelia",?
+"363542","Jinx","Vayne","Master Yi","Amumu","Katarina","Brand","Nami","Morgana","Darius","Yasuo",?
+"361050","Varus","Vayne","Shen","Fiddlesticks","Teemo","Fizz","Leona","Morgana","Rammus","Jax",?
+"209310","Quinn","Caitlyn","Volibear","Nocturne","Yasuo","Vayne","Alistar","Braum","Vladimir","Swain",?
+"210262","Sivir","Graves","Rengar","Wukong","Fizz","Xerath","Taric","Thresh","Cho'Gath","Akali",?
+"300248","Draven","Twitch","Elise","Master Yi","Azir","Yasuo","Leona","Nami","Ryze","Fizz",?
+"329327","Tristana","Jinx","Nocturne","Rengar","Varus","Kassadin","Braum","Taric","Garen","Wukong",?
+"379986","Vayne","Kalista","Vi","Poppy","Diana","Katarina","Leona","Sona","Fizz","Darius",?
+"505526","Ezreal","Jinx","Master Yi","Pantheon","Ekko","Talon","Leona","Alistar","Renekton","Garen",?
+"194921","Tristana","Miss Fortune","Amumu","Warwick","Fizz","Annie","Volibear","Morgana","Trundle","Garen",?
+"169013","Lucian","Vayne","Volibear","Gragas","Annie","Viktor","Janna","Zyra","Yasuo","Sion",?
+"104762","Lucian","Draven","Lee Sin","Master Yi","Orianna","Veigar","Maokai","Blitzcrank","Nasus","Dr. Mundo",?
+"46509","Tristana","Vayne","Trundle","Elise","Kennen","Lux","Taliyah","Thresh","Singed","Volibear",?
+"122052","Vayne","Lucian","Hecarim","Vi","Ahri","LeBlanc","Thresh","Sona","Fizz","Irelia",?
+"491717","Jhin","Caitlyn","Evelynn","Zac","Fizz","Teemo","Nami","Thresh","Yorick","Renekton",?
+"176271","Ashe","Jinx","Lee Sin","Ekko","Vel'Koz","Azir","Morgana","Taric","Garen","Cho'Gath",?
+"311946","Draven","Caitlyn","Vi","Kha'Zix","Fizz","Azir","Thresh","Nautilus","Garen","Darius",?
+"82858","Vayne","Jinx","Aatrox","Volibear","Katarina","Azir","Blitzcrank","Braum","Poppy","Shen",?
+"169847","Jhin","Vayne","Nocturne","Jax","Talon","Vel'Koz","Morgana","Blitzcrank","Ekko","Renekton",?
+"67966","Vayne","Caitlyn","Gragas","Kha'Zix","Lux","Malzahar","Karma","Blitzcrank","Rengar","Irelia",?
+"453251","Jinx","Jhin","Zac","Volibear","Swain","Vladimir","Braum","Alistar","Graves","Fiora",?
+"208908","Ashe","Jinx","Kindred","Lee Sin","Ziggs","Fizz","Soraka","Morgana","Gangplank","Swain",?
+"151761","Lucian","Jinx","Lee Sin","Sejuani","Gangplank","Annie","Alistar","Braum","Yasuo","Shen",?
+"15111","Vayne","Twitch","Xin Zhao","Lee Sin","LeBlanc","Akali","Bard","Thresh","Shen","Irelia",?
+"348931","Lucian","Twitch","Hecarim","Jax","Veigar","Talon","Morgana","Soraka","Poppy","Shyvana",?
+"200737","Draven","Vayne","Sejuani","Pantheon","Swain","Twisted Fate","Sona","Thresh","Veigar","Quinn",?
+"185162","Varus","Vayne","Lee Sin","Gragas","Azir","Fizz","Braum","Thresh","Maokai","Olaf",?
+"222187","Caitlyn","Vayne","Nautilus","Rek'Sai","LeBlanc","Zed","Morgana","Janna","Renekton","Fizz",?
+"462793","Vayne","Twitch","Tryndamere","Kha'Zix","Ziggs","Twisted Fate","Soraka","Tahm Kench","Darius","Pantheon",?
+"247453","Jinx","Lucian","Hecarim","Master Yi","Orianna","Vladimir","Bard","Thresh","Katarina","Malphite",?
+"220743","Vayne","Draven","Nocturne","Rengar","Malzahar","Ahri","Braum","Janna","Poppy","Cho'Gath",?
+"494884","Draven","Vayne","Lee Sin","Volibear","Anivia","Taliyah","Morgana","Lulu","Shen","Trundle",?
+"264670","Lucian","Caitlyn","Amumu","Kindred","Viktor","Olaf","Bard","Tahm Kench","Ekko","Kennen",?
+"100310","Vayne","Lucian","Gragas","Sejuani","Kassadin","Yasuo","Thresh","Braum","Volibear","Shaco",?
+"306773","Twitch","Vayne","Skarner","Rengar","Jayce","Katarina","Zyra","Soraka","Riven","Gangplank",?
+"351905","Ashe","Lucian","Shaco","Master Yi","Taliyah","Ahri","Annie","Braum","Shen","Yorick",?
+"196827","Jhin","Miss Fortune","Lee Sin","Rengar","LeBlanc","Lux","Nautilus","Thresh","Garen","Wukong",?
+"6169","Caitlyn","Lucian","Graves","Amumu","Lux","Orianna","Leona","Morgana","Trundle","Malphite",?
+"272773","Caitlyn","Varus","Lulu","Elise","Zed","Annie","Blitzcrank","Thresh","Garen","Gnar",?
+"73157","Tristana","Jinx","Hecarim","Volibear","Annie","Ezreal","Janna","Blitzcrank","Illaoi","Morgana",?
+"102553","Sivir","Lucian","Shyvana","Vi","LeBlanc","Malzahar","Alistar","Blitzcrank","Vladimir","Kha'Zix",?
+"385624","Vayne","Jhin","Wukong","Master Yi","Lux","Taliyah","Braum","Morgana","Nasus","Renekton",?
+"505037","Ezreal","Lucian","Lee Sin","Nidalee","Fizz","Shen","Blitzcrank","Janna","Cho'Gath","Taliyah",?
+"424944","Caitlyn","Lucian","Nautilus","Kha'Zix","Vladimir","Malzahar","Braum","Karma","Yasuo","Jax",?
+"243589","Draven","Jinx","Tryndamere","Rammus","Yasuo","Fizz","Thresh","Taric","Wukong","Jayce",?
+"264866","Tristana","Lucian","Xin Zhao","Jax","Veigar","Azir","Braum","Poppy","Gragas","Trundle",?
+"51274","Lucian","Draven","Warwick","Kindred","Ahri","Annie","Blitzcrank","Janna","Gnar","Yasuo",?
+"317257","Tristana","Lucian","Wukong","Vi","Katarina","Annie","Braum","Thresh","Lee Sin","Ryze",?
+"375783","Vayne","Lucian","Zac","Nocturne","Ahri","Irelia","Gragas","Nami","Trundle","Riven",?
+"253438","Kalista","Caitlyn","Graves","Gragas","Kennen","Vladimir","Thresh","Alistar","Nasus","Renekton",?
+"450383","Vayne","Caitlyn","Gragas","Nidalee","Anivia","Gangplank","Soraka","Janna","Fiora","Fizz",?
+"225227","Jhin","Quinn","Jarvan IV","Skarner","Yasuo","Cassiopeia","Bard","Blitzcrank","Garen","Maokai",?
+"98313","Ezreal","Vayne","Kindred","Nidalee","Kayle","Syndra","Morgana","Janna","Dr. Mundo","Volibear",?
+"408448","Tristana","Lucian","Lee Sin","Olaf","Lux","Azir","Sona","Nautilus","Volibear","Ekko",?
+"382120","Lucian","Corki","Shyvana","Vi","Akali","Brand","Blitzcrank","Thresh","Yasuo","Nasus",?
+"370623","Vayne","Ezreal","Amumu","Warwick","Yasuo","Azir","Braum","Thresh","Darius","Jax",?
+"328848","Caitlyn","Miss Fortune","Xin Zhao","Lee Sin","Twisted Fate","Galio","Poppy","Braum","Sion","Tryndamere",?
+"440423","Ashe","Twitch","Nidalee","Rek'Sai","Akali","Zed","Morgana","Braum","Jarvan IV","Garen",?
+"108161","Draven","Tristana","Maokai","Nautilus","Orianna","Annie","Vel'Koz","Shen","Volibear","Yasuo",?
+"419641","Jinx","Vayne","Riven","Warwick","Azir","Zilean","Bard","Braum","Nautilus","Swain",?
+"219821","Miss Fortune","Sivir","Rengar","Wukong","Morgana","Veigar","Leona","Soraka","Quinn","Darius",?
+"243699","Jinx","Vayne","Lee Sin","Jarvan IV","Diana","Taliyah","Taric","Thresh","Rengar","Vladimir",?
+"182293","Tristana","Lucian","Kindred","Rammus","LeBlanc","Lux","Sona","Leona","Garen","Renekton",?
+"154720","Ezreal","Ashe","Master Yi","Jax","Veigar","Fizz","Nautilus","Leona","Teemo","Vayne",?
+"164595","Vayne","Graves","Malphite","Master Yi","Orianna","Swain","Nautilus","Janna","Garen","Renekton",?
+"325426","Vayne","Miss Fortune","Nidalee","Fiddlesticks","Taliyah","Ahri","Thresh","Morgana","Nautilus","Fizz",?
+"481501","Corki","Caitlyn","Fizz","Udyr","Zed","Talon","Zyra","Thresh","Lissandra","Fiora",?
+"372600","Lucian","Caitlyn","Zac","Rammus","Kayle","Ahri","Thresh","Janna","Riven","Ekko",?
+"68083","Lucian","Ashe","Kindred","Kha'Zix","Zed","Twisted Fate","Thresh","Blitzcrank","Pantheon","Jax",?
+"3627","Jinx","Draven","Evelynn","Hecarim","Lux","Nunu","Janna","Leona","Olaf","Darius",?
+"436147","Ashe","Miss Fortune","Shaco","Volibear","Kennen","Vladimir","Braum","Morgana","Yasuo","Riven",?
+"496657","Vayne","Ezreal","Xin Zhao","Rengar","LeBlanc","Katarina","Alistar","Thresh","Malphite","Darius",?
+"463136","Tristana","Ashe","Kha'Zix","Evelynn","Annie","Veigar","Zyra","Taric","Maokai","Tryndamere",?
+"178143","Vayne","Lucian","Trundle","Ekko","Fizz","LeBlanc","Braum","Janna","Graves","Olaf",?
+"456972","Jinx","Caitlyn","Vi","Nautilus","LeBlanc","Katarina","Alistar","Braum","Yasuo","Dr. Mundo",?
+"59794","Ezreal","Caitlyn","Sejuani","Udyr","Ahri","Vel'Koz","Braum","Bard","Nautilus","Gnar",?
+"353647","Ashe","Lucian","Volibear","Wukong","Ekko","LeBlanc","Blitzcrank","Leona","Illaoi","Teemo",?
+"377581","Jinx","Caitlyn","Wukong","Twitch","Lux","Fizz","Braum","Nami","Fiora","Dr. Mundo",?
+"262140","Ezreal","Caitlyn","Rek'Sai","Gragas","Kassadin","Veigar","Braum","Nautilus","Aatrox","Graves",?
+"202734","Twitch","Jinx","Nautilus","Vi","Vel'Koz","Diana","Nami","Taric","Ekko","Darius",?
+"341046","Caitlyn","Draven","Nidalee","Malphite","Vladimir","Akali","Thresh","Lulu","Kayle","Trundle",?
+"350682","Vayne","Caitlyn","Graves","Shaco","Taliyah","Zed","Nami","Morgana","Volibear","Pantheon",?
+"440246","Jinx","Vayne","Udyr","Nautilus","Brand","Galio","Blitzcrank","Sona","Tryndamere","Garen",?
+"423127","Kindred","Jinx","Kha'Zix","Lee Sin","Ezreal","Ekko","Alistar","Thresh","Trundle","Nasus",?
+"231779","Jinx","Tristana","Shen","Xin Zhao","Annie","Lissandra","Bard","Morgana","Cho'Gath","Garen",?
+"99996","Ezreal","Caitlyn","Gragas","Graves","Lucian","Galio","Janna","Soraka","Maokai","Vladimir",?
+"323788","Vayne","Kalista","Master Yi","Fiddlesticks","Cho'Gath","Ryze","Alistar","Blitzcrank","Yasuo","Jax",?
+"219460","Caitlyn","Twitch","Gragas","Nidalee","Malzahar","Twisted Fate","Zyra","Bard","Gangplank","Riven",?
+"79809","Ezreal","Miss Fortune","Kindred","Maokai","Ahri","Lux","Sona","Soraka","Teemo","Jax",?
+"391730","Tristana","Jinx","Zac","Xin Zhao","Diana","Kennen","Thresh","Morgana","Swain","Ekko",?
+"159350","Tristana","Vayne","Volibear","Kha'Zix","Fizz","Lissandra","Braum","Alistar","Pantheon","Yasuo",?
+"364345","Lucian","Draven","Gragas","Nocturne","Cho'Gath","Azir","Poppy","Braum","Riven","Veigar",?
+"221016","Vayne","Ezreal","Shaco","Rek'Sai","Taliyah","Yasuo","Nami","Thresh","Darius","Fizz",?
+"415039","Ezreal","Vayne","Kha'Zix","Jarvan IV","Fizz","Azir","Thresh","Bard","Maokai","Volibear",?
+"365929","Kalista","Ezreal","Rengar","Tryndamere","Zed","Akali","Leona","Soraka","Cho'Gath","Shen",?
+"111484","Jinx","Vayne","Rek'Sai","Kha'Zix","LeBlanc","Fizz","Morgana","Leona","Rengar","Volibear",?
+"343035","Ezreal","Varus","Kindred","Kha'Zix","Azir","Ahri","Blitzcrank","Morgana","Rammus","Ryze",?
+"394735","Miss Fortune","Lucian","Amumu","Gragas","Lux","Azir","Thresh","Alistar","Irelia","Heimerdinger",?
+"7059","Vayne","Jhin","Rengar","Vi","Azir","Annie","Nautilus","Thresh","Twitch","Vladimir",?
+"394400","Ezreal","Lucian","Tryndamere","Poppy","Lissandra","Ahri","Nautilus","Karma","Darius","Renekton",?
+"243902","Lucian","Ezreal","Lee Sin","Gragas","Annie","Fizz","Braum","Janna","Cho'Gath","Illaoi",?
+"116052","Caitlyn","Lucian","Kha'Zix","Volibear","Annie","Ahri","Alistar","Leona","Wukong","Vladimir",?
+"329221","Draven","Twitch","Xin Zhao","Master Yi","Ekko","Yasuo","Kayle","Zyra","Olaf","Cho'Gath",?
+"72475","Caitlyn","Jinx","Lee Sin","Master Yi","Viktor","Heimerdinger","Tahm Kench","Soraka","Volibear","Irelia",?
+"461553","Lucian","Ashe","Kindred","Hecarim","Riven","Rumble","Leona","Thresh","Swain","Veigar",?
+"73177","Draven","Lucian","Lee Sin","Kha'Zix","Yasuo","Lissandra","Thresh","Blitzcrank","Teemo","Garen",?
+"393676","Miss Fortune","Ezreal","Lee Sin","Jarvan IV","Yasuo","Fizz","Sona","Shen","Warwick","Malphite",?
+"348975","Ezreal","Caitlyn","Fizz","Lee Sin","Karma","Anivia","Trundle","Bard","Riven","Renekton",?
+"49498","Draven","Jhin","Xin Zhao","Zac","Orianna","Lux","Morgana","Soraka","Irelia","Darius",?
+"313712","Ashe","Vayne","Shyvana","Aatrox","Yasuo","Annie","Thresh","Nami","Kennen","Vladimir",?
+"336962","Caitlyn","Jinx","Vi","Rengar","Anivia","Azir","Soraka","Morgana","Maokai","Nautilus",?
+"407383","Caitlyn","Tristana","Kha'Zix","Trundle","Yasuo","Ziggs","Nami","Thresh","Teemo","Fizz",?
+"499511","Ashe","Jinx","Fiddlesticks","Kha'Zix","Morgana","Azir","Soraka","Nautilus","Jax","Cho'Gath",?
+"386710","Miss Fortune","Jinx","Sejuani","Xin Zhao","Lux","Zed","Tahm Kench","Morgana","Malphite","Vladimir",?
+"203390","Lucian","Jhin","Amumu","Gragas","Zed","Fizz","Braum","Janna","Illaoi","Maokai",?
+"180030","Kalista","Lucian","Trundle","Olaf","Malzahar","Zed","Braum","Lux","Jax","Fiora",?
+"76080","Kalista","Tristana","Volibear","Udyr","Veigar","Galio","Alistar","Shaco","Garen","Kayle",?
+"198147","Twitch","Sivir","Lee Sin","Amumu","Vladimir","LeBlanc","Lulu","Alistar","Shen","Irelia",?
+"263469","Ashe","Miss Fortune","Xin Zhao","Jax","Syndra","Azir","Blitzcrank","Thresh","Ekko","Darius",?
+"131073","Quinn","Draven","Warwick","Master Yi","Azir","Kennen","Volibear","Morgana","Nasus","Malphite",?
+"306918","Miss Fortune","Twitch","Gragas","Graves","Viktor","Lux","Leona","Bard","Yasuo","Trundle",?
+"295513","Vayne","Miss Fortune","Evelynn","Vi","Heimerdinger","Brand","Morgana","Lulu","Volibear","Jayce",?
+"59967","Ashe","Miss Fortune","Twitch","Jax","LeBlanc","Katarina","Taric","Malphite","Jarvan IV","Irelia",?
+"53845","Lucian","Ezreal","Elise","Lee Sin","Anivia","LeBlanc","Janna","Thresh","Xin Zhao","Vladimir",?
+"286813","Jinx","Ashe","Kha'Zix","Fizz","Sona","Lux","Thresh","Blitzcrank","Rumble","Jax",?
+"72786","Tristana","Miss Fortune","Volibear","Lee Sin","Diana","Lux","Morgana","Annie","Fizz","Jax",?
+"154060","Ezreal","Twitch","Graves","Rengar","Vladimir","Twisted Fate","Blitzcrank","Thresh","Teemo","Maokai",?
+"151023","Graves","Miss Fortune","Zac","Hecarim","Veigar","Yasuo","Thresh","Sion","Volibear","Teemo",?
+"158501","Jinx","Miss Fortune","Volibear","Dr. Mundo","Annie","Kayle","Braum","Taric","Jax","Darius",?
+"476892","Miss Fortune","Ezreal","Volibear","Amumu","Azir","Gangplank","Braum","Nautilus","Lissandra","Irelia",?
+"145109","Lucian","Ashe","Udyr","Vi","Lulu","Veigar","Morgana","Lux","Ekko","Irelia",?
+"120915","Vayne","Caitlyn","Jax","Rek'Sai","Fizz","Brand","Zyra","Morgana","Garen","Maokai",?
+"211436","Jhin","Graves","Rammus","Xin Zhao","Zed","Yasuo","Alistar","Malphite","Fiora","Urgot",?
+"86404","Vayne","Miss Fortune","Rengar","Shaco","Annie","Fizz","Morgana","Alistar","Nasus","Jax",?
+"217647","Caitlyn","Draven","Master Yi","Xin Zhao","Zed","Ahri","Soraka","Malphite","Irelia","Darius",?
+"382431","Kog'Maw","Ezreal","Rek'Sai","Rengar","Lux","Ahri","Leona","Thresh","Graves","Wukong",?
+"227151","Caitlyn","Lucian","Shyvana","Gragas","Lux","Akali","Morgana","Thresh","Ekko","Karthus",?
+"262017","Lucian","Jinx","Rengar","Xin Zhao","Zed","Veigar","Lux","Malphite","Ekko","Aatrox",?
+"372362","Jinx","Lucian","Wukong","Irelia","Ryze","Cho'Gath","Zyra","Blitzcrank","Quinn","Yasuo",?
+"506284","Miss Fortune","Ezreal","Shyvana","Jax","Veigar","Yasuo","Lux","Morgana","Darius","Ekko",?
+"43965","Vayne","Kalista","Graves","Lee Sin","Fizz","Azir","Nami","Soraka","Rengar","Riven",?
+"489477","Jhin","Vayne","Lee Sin","Rengar","Urgot","Ahri","Nami","Malphite","Shen","Trundle",?
+"453711","Tristana","Ezreal","Kha'Zix","Vi","Aurelion Sol","Orianna","Soraka","Braum","Irelia","Quinn",?
+"353716","Caitlyn","Varus","Malzahar","Hecarim","Yasuo","Morgana","Blitzcrank","Soraka","Quinn","Cho'Gath",?
+"407247","Caitlyn","Twitch","Zac","Shaco","Katarina","Yasuo","Braum","Thresh","Garen","Heimerdinger",?
+"216155","Miss Fortune","Vayne","Xin Zhao","Fizz","Zed","Lissandra","Leona","Thresh","Nautilus","Warwick",?
+"199819","Twitch","Vayne","Vi","Master Yi","Lux","Morgana","Taric","Blitzcrank","Cho'Gath","Rammus",?
+"432457","Jhin","Vayne","Lee Sin","Kha'Zix","Veigar","Vel'Koz","Alistar","Leona","Gragas","Jax",?
+"454986","Caitlyn","Jinx","Diana","Rek'Sai","Annie","Yasuo","Morgana","Zyra","Fizz","Cassiopeia",?
+"44515","Ezreal","Vayne","Kindred","Rengar","Vel'Koz","Diana","Lux","Blitzcrank","Jax","Fiora",?
+"476218","Lucian","Ezreal","Jax","Rengar","LeBlanc","Azir","Braum","Blitzcrank","Trundle","Fizz",?
+"380625","Caitlyn","Jinx","Udyr","Master Yi","Twisted Fate","Katarina","Malphite","Braum","Garen","Tryndamere",?
+"270525","Jinx","Vayne","Lee Sin","Rengar","Lux","Ahri","Leona","Braum","Riven","Yasuo",?
+"369826","Lucian","Vayne","Graves","Vi","Kennen","Twisted Fate","Thresh","Braum","Maokai","Renekton",?
+"78092","Ezreal","Lucian","Master Yi","Jax","Morgana","LeBlanc","Leona","Taric","Renekton","Yasuo",?
+"441706","Tristana","Vayne","Nidalee","Mordekaiser","Graves","LeBlanc","Malphite","Thresh","Singed","Fizz",?
+"62601","Twitch","Sivir","Nocturne","Volibear","Ziggs","Fizz","Lulu","Blitzcrank","Darius","Olaf",?
+"436400","Caitlyn","Kalista","Rek'Sai","Volibear","Fizz","Gangplank","Karma","Alistar","Hecarim","Ekko",?
+"478887","Twitch","Caitlyn","Xin Zhao","Vi","Brand","Mordekaiser","Leona","Trundle","Vladimir","Cho'Gath",?
+"172977","Vayne","Lucian","Jax","Vi","Zilean","Vel'Koz","Braum","Nami","Taric","Maokai",?
+"100113","Sivir","Jinx","Vi","Jarvan IV","Karma","Ahri","Janna","Thresh","Shen","Gnar",?
+"239901","Vayne","Tristana","Taliyah","Rengar","Katarina","Lux","Taric","Morgana","Ekko","Darius",?
+"459824","Jinx","Ashe","Udyr","Amumu","Fizz","Vel'Koz","Thresh","Lulu","Trundle","Kayle",?
+"431056","Vayne","Kalista","Elise","Nidalee","Viktor","Brand","Thresh","Leona","Vladimir","Nautilus",?
+"234909","Miss Fortune","Caitlyn","Rengar","Kindred","Irelia","Ekko","Nautilus","Nami","Swain","Malzahar",?
+"102995","Ashe","Kalista","Rumble","Trundle","Morgana","Twisted Fate","Sona","Thresh","Maokai","Gangplank",?
+"33540","Jinx","Ezreal","Rammus","Skarner","Ahri","Veigar","Zyra","Nami","Ryze","Irelia",?
+"361035","Jinx","Lucian","Xin Zhao","Amumu","LeBlanc","Ekko","Alistar","Morgana","Sion","Renekton",?
+"474298","Draven","Caitlyn","Volibear","Shaco","Orianna","Annie","Lulu","Zyra","Kennen","Trundle",?
+"367328","Vayne","Jinx","Amumu","Poppy","Lissandra","LeBlanc","Leona","Bard","Darius","Graves",?
+"301581","Caitlyn","Vayne","Shyvana","Lee Sin","Anivia","Diana","Xin Zhao","Blitzcrank","Cho'Gath","Nasus",?
+"113957","Jinx","Tristana","Kha'Zix","Rammus","Corki","Swain","Braum","Blitzcrank","Teemo","Tryndamere",?
+"417923","Sivir","Tristana","Amumu","Irelia","Azir","Ahri","Leona","Morgana","Dr. Mundo","Rumble",?
+"370170","Sivir","Jinx","Kha'Zix","Rengar","Ahri","Talon","Zilean","Zyra","Singed","Swain",?
+"253771","Tristana","Lucian","Rengar","Kindred","Malzahar","Yasuo","Ahri","Thresh","Riven","Malphite",?
+"165173","Lucian","Jinx","Lee Sin","Maokai","Teemo","Fizz","Alistar","Lux","Renekton","Ekko",?
+"210036","Lucian","Ezreal","Lee Sin","Graves","Yasuo","Lux","Poppy","Soraka","Trundle","Ekko",?
+"309145","Jinx","Lucian","Lee Sin","Zac","Anivia","Orianna","Bard","Nautilus","Yasuo","Malphite",?
+"121015","Caitlyn","Vayne","Lee Sin","Gragas","Xerath","Twisted Fate","Taric","Soraka","Singed","Gnar",?
+"76766","Vayne","Jinx","Fizz","Xin Zhao","Zed","Ekko","Leona","Braum","Irelia","Malphite",?
+"357344","Vayne","Jinx","Diana","Evelynn","LeBlanc","Anivia","Malphite","Blitzcrank","Garen","Illaoi",?
+"84344","Jinx","Caitlyn","Shen","Nautilus","Zed","Azir","Zyra","Nami","Singed","Tryndamere",?
+"5780","Ezreal","Ashe","Master Yi","Graves","Cassiopeia","Viktor","Lux","Morgana","Garen","Dr. Mundo",?
+"147082","Lucian","Twitch","Graves","Warwick","Lissandra","Azir","Thresh","Sona","Renekton","Garen",?
+"252959","Miss Fortune","Ezreal","Kindred","Ekko","Cho'Gath","Yasuo","Lulu","Leona","Jax","Xin Zhao",?
+"452658","Vayne","Twitch","Lee Sin","Vi","Twisted Fate","Katarina","Janna","Bard","Renekton","Cho'Gath",?
+"193639","Caitlyn","Twitch","Amumu","Shyvana","Vel'Koz","Akali","Lulu","Thresh","Vladimir","Cho'Gath",?
+"423278","Ashe","Jinx","Kindred","Akali","Katarina","Nidalee","Sona","Soraka","Mordekaiser","Volibear",?
+"285768","Ezreal","Vayne","Lee Sin","Shaco","Katarina","Taliyah","Sona","Braum","Cho'Gath","Udyr",?
+"88891","Sivir","Ezreal","Olaf","Graves","Talon","Ahri","Zyra","Thresh","Fizz","Wukong",?
+"470452","Caitlyn","Jinx","Master Yi","Gragas","Azir","Yasuo","Blitzcrank","Thresh","Darius","Lissandra",?
+"366506","Lucian","Draven","Ekko","Sejuani","Veigar","Kayle","Volibear","Gragas","Cho'Gath","Vayne",?
+"363126","Ezreal","Ashe","Sejuani","Zac","Lux","Yasuo","Annie","Zyra","Shen","Ekko",?
+"156244","Draven","Tristana","Master Yi","Amumu","Annie","Fizz","Braum","Zyra","Urgot","Irelia",?
+"54241","Ezreal","Lucian","Shyvana","Maokai","Fizz","Jax","Thresh","Morgana","Gragas","Gangplank",?
+"256126","Jhin","Vayne","Zac","Warwick","Malphite","Fizz","Tahm Kench","Sona","Nasus","Renekton",?
+"283714","Vayne","Ezreal","Vi","Akali","Fiddlesticks","Kassadin","Morgana","Nautilus","Olaf","Illaoi",?
+"389181","Sivir","Lucian","Amumu","Fizz","LeBlanc","Karma","Blitzcrank","Alistar","Swain","Jax",?
+"175076","Ezreal","Jinx","Rengar","Master Yi","Quinn","Yasuo","Nami","Blitzcrank","Fizz","Irelia",?
+"215241","Ezreal","Jinx","Wukong","Zac","Yasuo","LeBlanc","Leona","Braum","Darius","Quinn",?
+"470562","Sivir","Lucian","Lee Sin","Nunu","Ahri","Annie","Volibear","Thresh","Darius","Nautilus",?
+"387939","Caitlyn","Vayne","Gragas","Xin Zhao","Yasuo","Ahri","Tahm Kench","Malphite","Tryndamere","Riven",?
+"280060","Caitlyn","Tristana","Volibear","Kha'Zix","Vladimir","Viktor","Alistar","Thresh","Vayne","Pantheon",?
+"345585","Ezreal","Ashe","Warwick","Nocturne","Zed","Teemo","Malphite","Yasuo","Ekko","Jax",?
+"199563","Tristana","Lucian","Kha'Zix","Gragas","Katarina","Lux","Morgana","Bard","Malphite","Cho'Gath",?
+"396135","Jinx","Twitch","Kha'Zix","Rengar","Azir","Akali","Bard","Braum","Singed","Nasus",?
+"515364","Caitlyn","Miss Fortune","Kha'Zix","Jarvan IV","Ahri","Yasuo","Vel'Koz","Xerath","Darius","Teemo",?
+"519109","Vayne","Miss Fortune","Warwick","Hecarim","Anivia","Fizz","Annie","Soraka","Olaf","Illaoi",?
+"421058","Miss Fortune","Twitch","Lee Sin","Kha'Zix","Ryze","Diana","Morgana","Lulu","Pantheon","Garen",?
+"23584","Lucian","Ezreal","Nidalee","Kha'Zix","LeBlanc","Viktor","Thresh","Bard","Darius","Gnar",?
+"48027","Ashe","Tristana","Evelynn","Volibear","Veigar","Katarina","Zilean","Sona","Teemo","Tryndamere",?
+"217973","Ashe","Ezreal","Fizz","Xin Zhao","Twisted Fate","Azir","Thresh","Blitzcrank","Tryndamere","Elise",?
+"423536","Jinx","Vayne","Amumu","Lee Sin","Viktor","Azir","Thresh","Braum","Irelia","Ekko",?
+"106119","Tristana","Jinx","Maokai","Kha'Zix","Fizz","Lulu","Blitzcrank","Thresh","Lee Sin","Ekko",?
+"172063","Sivir","Vayne","Gragas","Wukong","Azir","Viktor","Nautilus","Leona","Fiora","Olaf",?
+"279809","Jinx","Vayne","Amumu","Kha'Zix","Azir","Annie","Thresh","Alistar","Yasuo","Darius",?
+"279174","Kalista","Caitlyn","Master Yi","Warwick","Vel'Koz","Azir","Tahm Kench","Janna","Tryndamere","Darius",?
+"462454","Sivir","Caitlyn","Xin Zhao","Nidalee","Fizz","LeBlanc","Bard","Thresh","Swain","Garen",?
+"268006","Lucian","Ezreal","Sejuani","Lee Sin","Ahri","Brand","Alistar","Leona","Shen","Darius",?
+"159481","Lucian","Jinx","Hecarim","Shyvana","Viktor","Talon","Blitzcrank","Leona","Riven","Kennen",?
+"139661","Sivir","Jinx","Olaf","Kha'Zix","Twisted Fate","Diana","Lulu","Blitzcrank","Riven","Kayle",?
+"393759","Jinx","Vayne","Zac","Lee Sin","Zed","Morgana","Nami","Blitzcrank","Darius","Maokai",?
+"514749","Twitch","Vayne","Trundle","Gragas","Zilean","Azir","Sona","Janna","Pantheon","Shen",?
+"207273","Miss Fortune","Tristana","Kha'Zix","Xin Zhao","Zed","Yasuo","Malphite","Janna","Jhin","Aatrox",?
+"16988","Varus","Caitlyn","Wukong","Volibear","Ahri","LeBlanc","Braum","Sona","Garen","Olaf",?
+"366257","Miss Fortune","Jinx","Zac","Gragas","Syndra","Zed","Morgana","Lux","Malphite","Garen",?
+"336670","Jinx","Ashe","Elise","Lee Sin","Lux","Katarina","Braum","Thresh","Riven","Maokai",?
+"378150","Sivir","Miss Fortune","Malzahar","Shaco","Yasuo","Akali","Tahm Kench","Nautilus","Singed","Pantheon",?
+"432489","Lucian","Draven","Lee Sin","Volibear","LeBlanc","Ahri","Taric","Blitzcrank","Wukong","Riven",?
+"69349","Jhin","Miss Fortune","Shyvana","Malzahar","Orianna","Yasuo","Alistar","Trundle","Quinn","Teemo",?
+"426729","Draven","Jinx","Jarvan IV","Lee Sin","Caitlyn","Yasuo","Taric","Morgana","Ahri","Nasus",?
+"386901","Vayne","Ezreal","Jarvan IV","Kha'Zix","Orianna","Ahri","Thresh","Janna","Olaf","Urgot",?
+"67025","Lucian","Jhin","Fizz","Volibear","Diana","Ziggs","Nautilus","Vel'Koz","Tryndamere","Garen",?
+"514286","Caitlyn","Jinx","Olaf","Master Yi","LeBlanc","Veigar","Braum","Lux","Ekko","Jax",?
+"235309","Ezreal","Vayne","Fizz","Lee Sin","Veigar","Ekko","Thresh","Morgana","Trundle","Renekton",?
+"304743","Ezreal","Lucian","Shaco","Shyvana","Orianna","LeBlanc","Alistar","Lux","Master Yi","Cho'Gath",?
+"111590","Ezreal","Ashe","Lee Sin","Amumu","Zed","Xerath","Blitzcrank","Alistar","Trundle","Garen",?
+"17239","Jhin","Graves","Xin Zhao","Nocturne","Brand","Kennen","Zyra","Braum","Pantheon","Wukong",?
+"425899","Jinx","Vayne","Kha'Zix","Master Yi","Zed","Yasuo","Blitzcrank","Morgana","Olaf","Malphite",?
+"260694","Lucian","Miss Fortune","Lee Sin","Kha'Zix","LeBlanc","Quinn","Braum","Thresh","Riven","Malphite",?
+"502785","Caitlyn","Jinx","Volibear","Wukong","Veigar","Riven","Bard","Morgana","Nasus","Vayne",?
+"392224","Jinx","Caitlyn","Lee Sin","Kindred","Yasuo","Annie","Lux","Blitzcrank","Tryndamere","Jax",?
+"29491","Ashe","Twitch","Shaco","Amumu","Veigar","Brand","Lee Sin","Tahm Kench","Teemo","Master Yi",?
+"309970","Caitlyn","Varus","Jax","Lee Sin","Diana","LeBlanc","Blitzcrank","Morgana","Kha'Zix","Malphite",?
+"377396","Ashe","Kalista","Amumu","Master Yi","Yasuo","Veigar","Blitzcrank","Zyra","Teemo","Jax",?
+"431404","Lucian","Jinx","Xin Zhao","Dr. Mundo","Ekko","LeBlanc","Bard","Alistar","Irelia","Garen",?
+"127673","Vayne","Miss Fortune","Lee Sin","Nidalee","Twisted Fate","Fizz","Annie","Janna","Kennen","Swain",?
+"163724","Tristana","Ashe","Volibear","Trundle","Vel'Koz","Taliyah","Nami","Poppy","Dr. Mundo","Darius",?
+"287305","Sivir","Caitlyn","Amumu","Zac","Annie","Yasuo","Thresh","Soraka","Nasus","Olaf",?
+"445346","Caitlyn","Sivir","Rengar","Warwick","Lux","Annie","Morgana","Braum","Nasus","Garen",?
+"92233","Varus","Jhin","Cho'Gath","Rek'Sai","Fizz","Lux","Malphite","Blitzcrank","Azir","Zed",?
+"73921","Jinx","Twitch","Kha'Zix","Vi","LeBlanc","Varus","Janna","Bard","Garen","Ekko",?
+"113859","Sivir","Caitlyn","Shaco","Gragas","Ziggs","Talon","Brand","Bard","Ekko","Gangplank",?
+"359235","Ashe","Miss Fortune","Skarner","Fiddlesticks","Ahri","Talon","Blitzcrank","Alistar","Hecarim","Vladimir",?
+"162388","Corki","Draven","Ekko","Rengar","Morgana","Fizz","Thresh","Blitzcrank","Riven","Nasus",?
+"477724","Caitlyn","Vayne","Zac","Sejuani","Ahri","Yasuo","Bard","Thresh","Irelia","Renekton",?
+"132351","Ezreal","Sivir","Master Yi","Warwick","Malzahar","Ziggs","Blitzcrank","Thresh","Darius","Renekton",?
+"156416","Ezreal","Tristana","Lee Sin","Kindred","LeBlanc","Ahri","Alistar","Leona","Poppy","Olaf",?
+"258962","Jhin","Miss Fortune","Jax","Amumu","LeBlanc","Brand","Taric","Janna","Kayle","Darius",?
+"91171","Jinx","Tristana","Zac","Nidalee","Fizz","Gangplank","Alistar","Soraka","Trundle","Ryze",?
+"232922","Twitch","Caitlyn","Amumu","Shen","Ahri","Zyra","Morgana","Nami","Renekton","Nasus",?
+"262246","Ezreal","Jhin","Amumu","Lee Sin","Azir","Vel'Koz","Brand","Taric","Rengar","Maokai",?
+"305587","Lucian","Caitlyn","Irelia","Kha'Zix","Aurelion Sol","Akali","Thresh","Morgana","Teemo","Aatrox",?
+"405016","Sivir","Lucian","Lee Sin","Amumu","Yasuo","Lissandra","Sona","Braum","Malphite","Wukong",?
+"436594","Draven","Jinx","Fizz","Jarvan IV","Azir","Katarina","Braum","Taric","Jax","Vayne",?
+"31617","Lucian","Vayne","Sejuani","Lee Sin","Lux","Aurelion Sol","Thresh","Braum","Yasuo","Taliyah",?
+"506626","Tristana","Corki","Warwick","Twitch","Katarina","Viktor","Maokai","Lux","Gnar","Gangplank",?
+"29692","Jhin","Twitch","Shyvana","Pantheon","Annie","Teemo","Zyra","Morgana","Swain","Riven",?
+"129220","Caitlyn","Ezreal","Rengar","Volibear","Twisted Fate","Anivia","Nami","Thresh","Maokai","Trundle",?
+"110725","Miss Fortune","Jhin","Jax","Aatrox","Viktor","Ekko","Thresh","Blitzcrank","Nasus","Irelia",?
+"299894","Jhin","Jinx","Diana","Amumu","Zed","Ryze","Shen","Leona","Malphite","Wukong",?
+"391900","Ashe","Kalista","Malphite","Warwick","Azir","Morgana","Zilean","Thresh","Lucian","Yasuo",?
+"245360","Varus","Caitlyn","Jarvan IV","Lee Sin","Ziggs","Yasuo","Morgana","Janna","Ryze","Nasus",?
+"290752","Vayne","Caitlyn","Sejuani","Master Yi","Azir","Fizz","Alistar","Nami","Renekton","Maokai",?
+"486246","Vayne","Lucian","Rek'Sai","Amumu","Malzahar","Twisted Fate","Brand","Janna","Pantheon","Dr. Mundo",?
+"422210","Ashe","Lucian","Gragas","Kha'Zix","LeBlanc","Katarina","Morgana","Janna","Rengar","Graves",?
+"5742","Miss Fortune","Jinx","Graves","Amumu","Ahri","Veigar","Thresh","Lulu","Teemo","Riven",?
+"51656","Vayne","Twitch","Wukong","Volibear","Fizz","Swain","Thresh","Blitzcrank","Yasuo","Ziggs",?
+"97157","Vayne","Tristana","Amumu","Kindred","Lux","Ahri","Taric","Janna","Malphite","Maokai",?
+"371466","Jinx","Caitlyn","Lee Sin","Shaco","Cassiopeia","Taliyah","Morgana","Nautilus","Vayne","Vladimir",?
+"350062","Sivir","Lucian","Kindred","Elise","Brand","Zed","Braum","Karma","Graves","Malphite",?
+"521076","Kalista","Vayne","Rengar","Master Yi","Zed","Veigar","Thresh","Braum","Jax","Riven",?
+"439472","Draven","Vayne","Xin Zhao","Shyvana","Brand","Lulu","Blitzcrank","Thresh","Nunu","Zed",?
+"308133","Lucian","Jinx","Pantheon","Vi","Annie","Malzahar","Zyra","Taric","Jax","Nasus",?
+"395533","Varus","Lucian","Lee Sin","Rengar","Heimerdinger","Ahri","Zyra","Zilean","Malzahar","Trundle",?
+"326798","Lucian","Jinx","Elise","Vi","Fizz","Ahri","Thresh","Soraka","Wukong","Darius",?
+"278929","Lucian","Miss Fortune","Kindred","Rek'Sai","Veigar","Fizz","Blitzcrank","Thresh","Pantheon","Yasuo",?
+"376507","Vayne","Ezreal","Volibear","Gragas","Irelia","Zed","Nami","Braum","Swain","Malphite",?
+"250076","Jinx","Graves","Nocturne","Xin Zhao","Ahri","LeBlanc","Thresh","Taliyah","Pantheon","Rengar",?
+"399701","Sivir","Ashe","Elise","Fiddlesticks","Azir","Orianna","Karma","Braum","Swain","Yasuo",?
+"427388","Vayne","Jhin","Kindred","Hecarim","Ahri","Cassiopeia","Blitzcrank","Thresh","Irelia","Vladimir",?
+"106277","Twitch","Lucian","Rengar","Kha'Zix","Ahri","LeBlanc","Alistar","Sona","Malphite","Fizz",?
+"499306","Lucian","Caitlyn","Lee Sin","Nidalee","Ahri","Zilean","Morgana","Blitzcrank","Udyr","Irelia",?
+"34758","Caitlyn","Lucian","Fiddlesticks","Ekko","Yasuo","Lissandra","Blitzcrank","Sejuani","Pantheon","Malphite",?
+"319855","Draven","Lucian","Kha'Zix","Zac","Anivia","Annie","Leona","Sona","Jax","Lulu",?
+"415759","Miss Fortune","Lucian","Volibear","Nautilus","Annie","Azir","Leona","Taric","Yasuo","Fiora",?
+"74635","Caitlyn","Lucian","Malphite","Amumu","Viktor","Lux","Braum","Blitzcrank","Garen","Darius",?
+"453536","Lucian","Caitlyn","Rek'Sai","Nidalee","Yasuo","Morgana","Braum","Lulu","Ekko","Renekton",?
+"431533","Lucian","Vayne","Hecarim","Wukong","LeBlanc","Cassiopeia","Thresh","Nautilus","Galio","Illaoi",?
+"257982","Sivir","Lucian","Diana","Fiddlesticks","Viktor","Fizz","Soraka","Gragas","Yasuo","Renekton",?
+"443167","Jinx","Vayne","Sejuani","Rek'Sai","Diana","Ezreal","Leona","Lux","Jhin","Nasus",?
+"379281","Jhin","Jinx","Malphite","Tryndamere","Yasuo","Ekko","Morgana","Sona","Darius","Volibear",?
+"185888","Tristana","Jinx","Wukong","Vi","Zed","Annie","Morgana","Janna","Ryze","Pantheon",?
+"97694","Tristana","Urgot","Hecarim","Rek'Sai","Gangplank","Viktor","Sona","Karma","Gnar","Kennen",?
+"157664","Lucian","Vayne","Hecarim","Malphite","Ahri","Yasuo","Soraka","Sona","Ekko","Renekton",?
+"326035","Tristana","Ashe","Fizz","Warwick","Taliyah","Ahri","Sona","Janna","Brand","Illaoi",?
+"315695","Lucian","Miss Fortune","Lee Sin","Xin Zhao","Lulu","Ahri","Alistar","Janna","Malphite","Kayle",?
+"298916","Jinx","Vayne","Shyvana","Poppy","Kennen","Ezreal","Thresh","Taric","Malphite","Graves",?
+"184261","Ashe","Lucian","Zac","Kha'Zix","Annie","LeBlanc","Blitzcrank","Alistar","Renekton","Lee Sin",?
+"304286","Jhin","Vayne","Lee Sin","Jarvan IV","Zed","Syndra","Zyra","Thresh","Wukong","Tryndamere",?
+"196988","Caitlyn","Ezreal","Gragas","Trundle","Ahri","Annie","Xerath","Braum","Jarvan IV","Jax",?
+"224741","Lucian","Vayne","Fiddlesticks","Gragas","Kassadin","Fizz","Thresh","Blitzcrank","Nautilus","Illaoi",?
+"378867","Ezreal","Caitlyn","Amumu","Gragas","Ahri","Annie","Braum","Alistar","Fiora","Jax",?
+"131743","Graves","Vayne","Amumu","Trundle","Lux","Talon","Taric","Zyra","Nasus","Kayle",?
+"196620","Lucian","Jinx","Rengar","Xin Zhao","Zed","Nidalee","Alistar","Brand","Renekton","Yasuo",?
+"161242","Tristana","Twitch","Vi","Master Yi","Fizz","Azir","Blitzcrank","Zyra","Olaf","Riven",?
+"381511","Vayne","Lucian","Rengar","Sejuani","Anivia","Yasuo","Nami","Malphite","Vladimir","Darius",?
+"384877","Miss Fortune","Lucian","Volibear","Trundle","Lux","Lissandra","Alistar","Lulu","Tryndamere","Jax",?
+"115966","Caitlyn","Twitch","Shyvana","Vi","Diana","Twisted Fate","Nami","Leona","Maokai","Nasus",?
+"512974","Ashe","Vayne","Amumu","Lee Sin","Veigar","Fizz","Vel'Koz","Zilean","Darius","Nasus",?
+"436769","Caitlyn","Ezreal","Olaf","Kha'Zix","Zyra","Ahri","Thresh","Braum","Vladimir","Shen",?
+"286744","Vayne","Lucian","Shyvana","Udyr","Ahri","Viktor","Taric","Nautilus","Garen","Kayle",?
+"477228","Vayne","Lucian","Jax","Hecarim","Fizz","Veigar","Nami","Thresh","Irelia","Maokai",?
+"347621","Quinn","Lucian","Warwick","Rengar","Swain","Yasuo","Morgana","Nautilus","Renekton","Fiora",?
+"437351","Ashe","Lucian","Nidalee","Lee Sin","LeBlanc","Brand","Blitzcrank","Braum","Gangplank","Darius",?
+"482722","Caitlyn","Sivir","Rek'Sai","Evelynn","Vladimir","Brand","Leona","Dr. Mundo","Olaf","Tryndamere",?
+"66586","Kalista","Vayne","Warwick","Master Yi","Fizz","Ahri","Nautilus","Leona","Renekton","Wukong",?
+"27724","Draven","Caitlyn","Rammus","Graves","Ryze","Vel'Koz","Nautilus","Braum","Ekko","Mordekaiser",?
+"106502","Vayne","Ezreal","Nidalee","Graves","Anivia","Annie","Thresh","Janna","Ekko","Fiora",?
+"207179","Sivir","Lucian","Jarvan IV","Lee Sin","Viktor","LeBlanc","Bard","Morgana","Kayle","Gangplank",?
+"325612","Miss Fortune","Ezreal","Rengar","Amumu","Diana","Annie","Braum","Taric","Vladimir","Dr. Mundo",?
+"504072","Ezreal","Miss Fortune","Xin Zhao","Rengar","Yasuo","Brand","Sona","Volibear","Nasus","Swain",?
+"302666","Caitlyn","Miss Fortune","Jax","Udyr","Zed","Ahri","Malphite","Thresh","Poppy","Maokai",?
+"151765","Lucian","Caitlyn","Gragas","Hecarim","Swain","Azir","Braum","Janna","Gangplank","Lissandra",?
+"286698","Vayne","Lucian","Trundle","Kindred","Cho'Gath","Ahri","Morgana","Volibear","Gnar","Garen",?
+"519466","Caitlyn","Lucian","Tryndamere","Xin Zhao","LeBlanc","Annie","Janna","Bard","Ekko","Darius",?
+"319263","Caitlyn","Quinn","Jax","Amumu","Katarina","LeBlanc","Annie","Morgana","Yasuo","Olaf",?
+"293660","Caitlyn","Lucian","Volibear","Trundle","Azir","Lissandra","Blitzcrank","Lux","Jarvan IV","Illaoi",?
+"331246","Tristana","Jinx","Jax","Xin Zhao","Lee Sin","Syndra","Leona","Shen","Fiora","Ryze",?
+"260238","Caitlyn","Tristana","Jax","Lee Sin","Katarina","Teemo","Karma","Morgana","Annie","Zed",?
+"454323","Jinx","Caitlyn","Rengar","Warwick","Anivia","Katarina","Janna","Leona","Dr. Mundo","Nocturne",?
+"312572","Twitch","Lucian","Wukong","Evelynn","Varus","Lux","Nautilus","Thresh","Kayle","Fizz",?
+"351639","Caitlyn","Ezreal","Lee Sin","Shaco","Ahri","Annie","Blitzcrank","Brand","Riven","Pantheon",?
+"509678","Jinx","Lucian","Master Yi","Warwick","Azir","LeBlanc","Leona","Braum","Illaoi","Fizz",?
+"372140","Draven","Miss Fortune","Xin Zhao","Jax","Fizz","Azir","Leona","Morgana","Riven","Fiora",?
+"205238","Tristana","Miss Fortune","Kha'Zix","Hecarim","Malzahar","Katarina","Janna","Morgana","Akali","Malphite",?
+"101648","Lucian","Jhin","Nautilus","Shaco","Azir","Twisted Fate","Zyra","Thresh","Riven","Poppy",?
+"23780","Jhin","Sivir","Amumu","Nidalee","Lux","Taliyah","Alistar","Nami","Pantheon","Shen",?
+"320644","Jinx","Lucian","Xin Zhao","Lulu","Xerath","Fizz","Soraka","Morgana","Talon","Irelia",?
+"444387","Jinx","Lucian","Zac","Nidalee","Zed","Swain","Alistar","Bard","Thresh","Malphite",?
+"401369","Sivir","Miss Fortune","Lee Sin","Sejuani","Fizz","Azir","Tahm Kench","Leona","Wukong","Tryndamere",?
+"186937","Tristana","Lucian","Quinn","Amumu","Ahri","LeBlanc","Nautilus","Thresh","Tryndamere","Pantheon",?
+"186002","Kog'Maw","Jhin","Warwick","Rengar","Cho'Gath","Brand","Tahm Kench","Thresh","Teemo","Gnar",?
+"485276","Caitlyn","Ashe","Kayle","Fizz","Viktor","Ahri","Blitzcrank","Soraka","Lulu","Aatrox",?
+"475972","Ezreal","Vayne","Kindred","Master Yi","Brand","LeBlanc","Soraka","Lux","Ekko","Yasuo",?
+"117086","Ashe","Graves","Kha'Zix","Lee Sin","Anivia","Azir","Leona","Thresh","Lissandra","Gangplank",?
